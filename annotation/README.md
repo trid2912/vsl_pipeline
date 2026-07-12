@@ -31,9 +31,20 @@ under `videos/` and are **not** committed.
 
 Everyone uses the same credentials; anyone logged in has full access (view all clips, upload, annotate).
 
-- Set via CLI: `python3 annotation_server.py setpassword` → prompts for username (default `admin`) + password, hashed into `auth/password.txt`.
-- Or via env: `ANNOTATION_USER` + `ANNOTATION_PASSWORD`.
-- If **neither** is configured the app runs **open (no login)** — only acceptable on localhost.
+**There is no hardcoded username/password — you set your own, and it is deliberately NOT stored in this repo.**
+The password lives only in `auth/` (gitignored), so a public repo never leaks it. On first run, set it one of two ways:
+
+```bash
+# option A — CLI (prompts for username [default: admin] + password; hashed into auth/password.txt)
+python3 annotation_server.py setpassword
+
+# option B — environment variables
+export ANNOTATION_USER=admin
+export ANNOTATION_PASSWORD='choose-a-strong-password'
+```
+
+Then open the app and log in with what you set. If **neither** is configured the app runs **open (no login)** —
+acceptable only on localhost. Rotate the password by re-running `setpassword` (or changing the env) and restarting.
 
 ## The recording package (data directory)
 
