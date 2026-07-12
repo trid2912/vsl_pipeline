@@ -1,0 +1,27 @@
+# secrets / auth — NEVER commit
+auth/
+*.key
+password.txt
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# uploaded videos (keep the folders, not the media)
+sample_data/recording/videos/*
+!sample_data/recording/videos/.gitkeep
+
+# real data dir if someone copies it inside the repo root (data belongs outside).
+# Anchored with a leading slash so bundled sample_data/recording/ is NOT ignored.
+/final_corpus/
+/data/
+/recording/
+
+# os / editor
+.DS_Store
+*.swp

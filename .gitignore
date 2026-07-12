@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# annotation secrets & uploads are also covered by annotation/.gitignore
+annotation/auth/
+annotation/sample_data/recording/videos/*
+!annotation/sample_data/recording/videos/.gitkeep
+
+# runtime data trees (live outside this repo; ignore if ever copied in)
+/final_corpus/
+/data/
+/corpus_files/
+
+# os / editor
+.DS_Store
+*.swp

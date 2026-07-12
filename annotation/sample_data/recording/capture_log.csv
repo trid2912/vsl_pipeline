@@ -1,0 +1,8 @@
+﻿recording_id,segment_id,signer_id,split,length_bucket,estimated_duration_seconds,session_id,recording_date,take_number,status,actual_duration_seconds,q_motion_blur_ok,q_framing_full_signing_space,q_fps_ge_25,q_lighting_ok,q_resolution_ge_1080p,video_path,notes
+VSL_SEG_000001,d00737,SIGNER_03,train,standard,59,,,,pending,,,,,,,,
+VSL_SEG_000002,d00739,SIGNER_02,train,standard,54,,,,pending,,,,,,,,
+VSL_SEG_000003,d00740,SIGNER_04,train,standard,74,,,,pending,,,,,,,,
+VSL_SEG_000022,gf2_congviec_001,SIGNER_06,train,hard,100,,,,pending,,,,,,,,
+VSL_SEG_000023,gf2_congviec_002,SIGNER_01,train,hard,107,,,,pending,,,,,,,,
+VSL_EVAL_000847,FLEURS_11911,SIGNER_09,si_test,eval_sentence,17,,,,pending,,,,,,,,
+VSL_EVAL_000848,FLEURS_11911,SIGNER_10,si_test,eval_sentence,17,,,,pending,,,,,,,,
