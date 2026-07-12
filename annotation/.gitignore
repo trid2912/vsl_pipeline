@@ -15,12 +15,12 @@ env/
 # uploaded videos (keep the folders, not the media)
 sample_data/recording/videos/*
 !sample_data/recording/videos/.gitkeep
+data/recording/videos/*
+!data/recording/videos/.gitkeep
 
-# real data dir if someone copies it inside the repo root (data belongs outside).
-# Anchored with a leading slash so bundled sample_data/recording/ is NOT ignored.
+# big runtime trees (belong outside the repo)
 /final_corpus/
-/data/
-/recording/
+/corpus_files/
 
 # os / editor
 .DS_Store

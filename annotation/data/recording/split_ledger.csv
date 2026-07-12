@@ -1,0 +1,1194 @@
+﻿segment_id,split,domain,length_bucket,segmented_word_count,near_dup_cluster,signer_ids,source
+d00737,train,Công việc,standard,79,C0001,SIGNER_03,generated
+d00739,train,Công việc,standard,72,C0002,SIGNER_02,generated
+d00740,train,Công việc,standard,98,C0003,SIGNER_04,generated
+d00741,train,Công việc,standard,79,C0004,SIGNER_01,generated
+d00742,train,Công việc,standard,73,C0005,SIGNER_02,generated
+d00745,train,Công việc,standard,72,C0006,SIGNER_08,generated
+d00746,train,Công việc,standard,75,C0007,SIGNER_05,generated
+d00752,train,Công việc,standard,70,C0008,SIGNER_08,generated
+d00758,sd_test,Công việc,standard,71,C0009,SIGNER_06,generated
+d00759,dev,Công việc,standard,71,C0010,SIGNER_04,generated
+d00766,train,Công việc,standard,73,C0011,SIGNER_02,generated
+d00797,train,Công việc,standard,73,C0012,SIGNER_07,generated
+d00802,train,Công việc,standard,93,C0013,SIGNER_08,generated
+d00803,train,Công việc,standard,75,C0014,SIGNER_07,generated
+d00804,train,Công việc,standard,77,C0015,SIGNER_04,generated
+d00805,train,Công việc,standard,79,C0016,SIGNER_06,generated
+d00806,train,Công việc,standard,77,C0017,SIGNER_03,generated
+d00807,train,Công việc,standard,83,C0018,SIGNER_01,generated
+d00808,train,Công việc,standard,81,C0019,SIGNER_01,generated
+d00809,sd_test,Công việc,standard,80,C0020,SIGNER_07,generated
+d00810,dev,Công việc,standard,85,C0021,SIGNER_01,generated
+d00811,train,Công việc,standard,75,C0022,SIGNER_04,generated
+d00812,train,Công việc,standard,80,C0023,SIGNER_06,generated
+d00813,train,Công việc,standard,77,C0024,SIGNER_07,generated
+d00814,sd_test,Công việc,standard,77,C0025,SIGNER_01,generated
+d00815,train,Công việc,standard,78,C0026,SIGNER_05,generated
+gf2_congviec_001,train,Công việc,hard,134,C0047,SIGNER_06,generated_gf2_llm
+gf2_congviec_002,train,Công việc,hard,143,C0048,SIGNER_01,generated_gf2_llm
+gf2_congviec_003,train,Công việc,hard,128,C0049,SIGNER_08,generated_gf2_llm
+r2_congviec_002,train,Công việc,standard,70,C0027,SIGNER_07,generated_r2
+r2_congviec_003,train,Công việc,standard,82,C0028,SIGNER_03,generated_r2
+r2_congviec_004,train,Công việc,standard,70,C0029,SIGNER_08,generated_r2
+r2_congviec_005,train,Công việc,hard,105,C0030,SIGNER_03,generated_r2
+r2_congviec_006,train,Công việc,hard,102,C0031,SIGNER_05,generated_r2
+r2_congviec_009,train,Công việc,standard,88,C0032,SIGNER_05,generated_r2
+r2_congviec_011,dev,Công việc,standard,78,C0033,SIGNER_07,generated_r2
+r2_congviec_012,train,Công việc,standard,85,C0034,SIGNER_07,generated_r2
+r3_congviec_001,train,Công việc,hard,134,C0035,SIGNER_04,generated_r3_llm
+r3_congviec_002,train,Công việc,hard,142,C0036,SIGNER_03,generated_r3_llm
+r3_congviec_003,train,Công việc,standard,99,C0037,SIGNER_05,generated_r3_llm
+r3_congviec_004,train,Công việc,hard,102,C0038,SIGNER_03,generated_r3_llm
+r3_congviec_005,train,Công việc,hard,131,C0039,SIGNER_05,generated_r3_llm
+r3_congviec_006,train,Công việc,hard,125,C0040,SIGNER_06,generated_r3_llm
+r3_congviec_007,train,Công việc,hard,151,C0041,SIGNER_04,generated_r3_llm
+r3_congviec_008,train,Công việc,hard,106,C0042,SIGNER_03,generated_r3_llm
+r3_congviec_009,train,Công việc,hard,114,C0043,SIGNER_03,generated_r3_llm
+r3_congviec_010,train,Công việc,hard,115,C0044,SIGNER_04,generated_r3_llm
+r3_congviec_011,train,Công việc,hard,110,C0045,SIGNER_06,generated_r3_llm
+r3_congviec_012,train,Công việc,hard,130,C0046,SIGNER_01,generated_r3_llm
+r4_congviec_001,train,Công việc,hard,135,C0050,SIGNER_02,generated_r4_llm
+r4_congviec_002,dev,Công việc,hard,103,C0051,SIGNER_07,generated_r4_llm
+r4_congviec_003,train,Công việc,hard,128,C0052,SIGNER_02,generated_r4_llm
+r4_congviec_004,train,Công việc,hard,118,C0053,SIGNER_03,generated_r4_llm
+r4_congviec_005,train,Công việc,hard,132,C0054,SIGNER_08,generated_r4_llm
+r4_congviec_006,sd_test,Công việc,hard,105,C0055,SIGNER_06,generated_r4_llm
+d01113,train,Du lịch,standard,71,C0056,SIGNER_01,generated
+d01126,train,Du lịch,standard,73,C0057,SIGNER_05,generated
+d01203,sd_test,Du lịch,standard,82,C0058,SIGNER_07,generated
+d01210,sd_test,Du lịch,standard,72,C0059,SIGNER_01,generated
+d01211,train,Du lịch,standard,70,C0060,SIGNER_07,generated
+d01225,train,Du lịch,standard,74,C0061,SIGNER_08,generated
+r2_dulich_001,train,Du lịch,standard,75,C0062,SIGNER_06,generated_r2
+r2_dulich_002,train,Du lịch,standard,81,C0063,SIGNER_06,generated_r2
+r2_dulich_003,train,Du lịch,standard,94,C0064,SIGNER_02,generated_r2
+r2_dulich_004,train,Du lịch,standard,95,C0065,SIGNER_05,generated_r2
+r2_dulich_005,train,Du lịch,hard,118,C0066,SIGNER_01,generated_r2
+r2_dulich_006,sd_test,Du lịch,hard,123,C0067,SIGNER_02,generated_r2
+r2_dulich_007,train,Du lịch,standard,77,C0068,SIGNER_04,generated_r2
+r2_dulich_008,train,Du lịch,standard,76,C0069,SIGNER_03,generated_r2
+r2_dulich_010,train,Du lịch,standard,88,C0070,SIGNER_05,generated_r2
+r2_dulich_011,dev,Du lịch,standard,91,C0071,SIGNER_04,generated_r2
+r2_dulich_012,train,Du lịch,standard,92,C0072,SIGNER_08,generated_r2
+r3_dulich_001,train,Du lịch,hard,129,C0073,SIGNER_04,generated_r3_llm
+r3_dulich_002,train,Du lịch,hard,145,C0074,SIGNER_01,generated_r3_llm
+r3_dulich_003,train,Du lịch,standard,97,C0075,SIGNER_03,generated_r3_llm
+r3_dulich_004,train,Du lịch,standard,91,C0076,SIGNER_05,generated_r3_llm
+r3_dulich_005,train,Du lịch,hard,116,C0077,SIGNER_07,generated_r3_llm
+r3_dulich_006,train,Du lịch,hard,125,C0078,SIGNER_08,generated_r3_llm
+r3_dulich_007,train,Du lịch,hard,113,C0079,SIGNER_07,generated_r3_llm
+r3_dulich_008,train,Du lịch,hard,131,C0080,SIGNER_04,generated_r3_llm
+r3_dulich_009,train,Du lịch,hard,102,C0081,SIGNER_01,generated_r3_llm
+r3_dulich_010,train,Du lịch,hard,126,C0082,SIGNER_08,generated_r3_llm
+r3_dulich_011,train,Du lịch,hard,105,C0083,SIGNER_01,generated_r3_llm
+r3_dulich_012,train,Du lịch,standard,94,C0084,SIGNER_04,generated_r3_llm
+r4_dulich_001,train,Du lịch,hard,101,C0085,SIGNER_02,generated_r4_llm
+r4_dulich_002,train,Du lịch,hard,143,C0086,SIGNER_05,generated_r4_llm
+r4_dulich_003,train,Du lịch,hard,140,C0087,SIGNER_07,generated_r4_llm
+r4_dulich_004,dev,Du lịch,hard,125,C0088,SIGNER_06,generated_r4_llm
+r4_dulich_005,train,Du lịch,hard,122,C0089,SIGNER_07,generated_r4_llm
+r4_dulich_006,train,Du lịch,hard,122,C0090,SIGNER_08,generated_r4_llm
+d00337,train,Gia đình,standard,94,C0091,SIGNER_06,generated
+d00338,dev,Gia đình,standard,95,C0092,SIGNER_02,generated
+d00341,train,Gia đình,standard,72,C0093,SIGNER_07,generated
+d00342,train,Gia đình,standard,72,C0094,SIGNER_04,generated
+d00343,train,Gia đình,standard,85,C0095,SIGNER_02,generated
+d00344,train,Gia đình,standard,82,C0096,SIGNER_03,generated
+d00345,train,Gia đình,standard,83,C0097,SIGNER_08,generated
+d00346,train,Gia đình,standard,72,C0098,SIGNER_05,generated
+d00347,train,Gia đình,standard,73,C0099,SIGNER_02,generated
+d00349,train,Gia đình,standard,73,C0100,SIGNER_05,generated
+d00351,train,Gia đình,standard,81,C0101,SIGNER_03,generated
+d00352,train,Gia đình,standard,70,C0102,SIGNER_05,generated
+d00353,train,Gia đình,standard,76,C0103,SIGNER_04,generated
+d00355,sd_test,Gia đình,standard,71,C0104,SIGNER_08,generated
+d00356,sd_test,Gia đình,standard,77,C0105,SIGNER_08,generated
+d00360,train,Gia đình,standard,70,C0106,SIGNER_07,generated
+d00361,train,Gia đình,standard,89,C0107,SIGNER_03,generated
+d00363,train,Gia đình,standard,70,C0108,SIGNER_06,generated
+d00364,train,Gia đình,standard,72,C0109,SIGNER_03,generated
+d00365,train,Gia đình,standard,70,C0110,SIGNER_05,generated
+d00366,train,Gia đình,standard,71,C0111,SIGNER_05,generated
+d00369,train,Gia đình,standard,71,C0112,SIGNER_04,generated
+d00371,train,Gia đình,standard,73,C0113,SIGNER_01,generated
+d00373,train,Gia đình,standard,77,C0114,SIGNER_06,generated
+d00377,train,Gia đình,standard,75,C0115,SIGNER_03,generated
+r2_giadinh_001,train,Gia đình,standard,79,C0116,SIGNER_02,generated_r2
+r2_giadinh_002,train,Gia đình,standard,81,C0117,SIGNER_02,generated_r2
+r2_giadinh_003,train,Gia đình,standard,94,C0118,SIGNER_02,generated_r2
+r2_giadinh_004,train,Gia đình,standard,88,C0119,SIGNER_06,generated_r2
+r2_giadinh_005,train,Gia đình,hard,123,C0120,SIGNER_05,generated_r2
+r2_giadinh_006,train,Gia đình,hard,117,C0121,SIGNER_04,generated_r2
+r2_giadinh_007,train,Gia đình,standard,78,C0122,SIGNER_07,generated_r2
+r2_giadinh_008,dev,Gia đình,standard,74,C0123,SIGNER_03,generated_r2
+r2_giadinh_009,sd_test,Gia đình,standard,70,C0124,SIGNER_01,generated_r2
+r2_giadinh_010,dev,Gia đình,standard,91,C0125,SIGNER_04,generated_r2
+r2_giadinh_011,train,Gia đình,standard,99,C0126,SIGNER_01,generated_r2
+r2_giadinh_012,train,Gia đình,hard,104,C0127,SIGNER_04,generated_r2
+r3_giadinh_001,train,Gia đình,hard,107,C0128,SIGNER_02,generated_r3_llm
+r3_giadinh_002,train,Gia đình,hard,147,C0129,SIGNER_01,generated_r3_llm
+r3_giadinh_003,train,Gia đình,hard,111,C0130,SIGNER_07,generated_r3_llm
+r3_giadinh_004,train,Gia đình,hard,122,C0131,SIGNER_04,generated_r3_llm
+r3_giadinh_005,train,Gia đình,hard,127,C0132,SIGNER_08,generated_r3_llm
+r3_giadinh_006,train,Gia đình,hard,121,C0133,SIGNER_07,generated_r3_llm
+r3_giadinh_007,dev,Gia đình,hard,128,C0134,SIGNER_03,generated_r3_llm
+r3_giadinh_008,sd_test,Gia đình,hard,111,C0135,SIGNER_07,generated_r3_llm
+r3_giadinh_009,train,Gia đình,hard,104,C0136,SIGNER_04,generated_r3_llm
+r3_giadinh_010,train,Gia đình,hard,117,C0137,SIGNER_02,generated_r3_llm
+r3_giadinh_011,train,Gia đình,hard,113,C0138,SIGNER_08,generated_r3_llm
+r3_giadinh_012,train,Gia đình,hard,116,C0139,SIGNER_03,generated_r3_llm
+r4_giadinh_001,train,Gia đình,hard,130,C0140,SIGNER_05,generated_r4_llm
+r4_giadinh_002,train,Gia đình,hard,118,C0141,SIGNER_05,generated_r4_llm
+r4_giadinh_003,train,Gia đình,hard,117,C0142,SIGNER_05,generated_r4_llm
+r4_giadinh_004,train,Gia đình,hard,125,C0143,SIGNER_01,generated_r4_llm
+r4_giadinh_005,train,Gia đình,hard,116,C0144,SIGNER_04,generated_r4_llm
+r4_giadinh_006,train,Gia đình,hard,135,C0145,SIGNER_03,generated_r4_llm
+d00314,train,Giao tiếp Xã hội,standard,75,C0146,SIGNER_06,generated
+r2_giaotiep_001,train,Giao tiếp Xã hội,standard,77,C0147,SIGNER_01,generated_r2
+r2_giaotiep_002,train,Giao tiếp Xã hội,standard,74,C0148,SIGNER_08,generated_r2
+r2_giaotiep_003,train,Giao tiếp Xã hội,standard,84,C0149,SIGNER_04,generated_r2
+r2_giaotiep_005,train,Giao tiếp Xã hội,hard,118,C0150,SIGNER_05,generated_r2
+r2_giaotiep_006,train,Giao tiếp Xã hội,hard,118,C0151,SIGNER_05,generated_r2
+r2_giaotiep_007,train,Giao tiếp Xã hội,standard,76,C0152,SIGNER_05,generated_r2
+r2_giaotiep_008,train,Giao tiếp Xã hội,standard,78,C0153,SIGNER_07,generated_r2
+r2_giaotiep_009,train,Giao tiếp Xã hội,hard,101,C0154,SIGNER_08,generated_r2
+r2_giaotiep_010,train,Giao tiếp Xã hội,standard,77,C0155,SIGNER_01,generated_r2
+r2_giaotiep_011,train,Giao tiếp Xã hội,hard,103,C0156,SIGNER_06,generated_r2
+r2_giaotiep_012,train,Giao tiếp Xã hội,standard,96,C0157,SIGNER_05,generated_r2
+r3_giaotiep_001,train,Giao tiếp Xã hội,hard,131,C0158,SIGNER_07,generated_r3_llm
+r3_giaotiep_002,train,Giao tiếp Xã hội,hard,156,C0159,SIGNER_03,generated_r3_llm
+r3_giaotiep_003,train,Giao tiếp Xã hội,hard,107,C0160,SIGNER_05,generated_r3_llm
+r3_giaotiep_004,dev,Giao tiếp Xã hội,hard,107,C0161,SIGNER_05,generated_r3_llm
+r3_giaotiep_005,train,Giao tiếp Xã hội,hard,125,C0162,SIGNER_04,generated_r3_llm
+r3_giaotiep_006,train,Giao tiếp Xã hội,hard,123,C0163,SIGNER_03,generated_r3_llm
+r3_giaotiep_007,sd_test,Giao tiếp Xã hội,hard,131,C0164,SIGNER_07,generated_r3_llm
+r3_giaotiep_008,dev,Giao tiếp Xã hội,hard,123,C0165,SIGNER_06,generated_r3_llm
+r3_giaotiep_009,train,Giao tiếp Xã hội,hard,133,C0166,SIGNER_07,generated_r3_llm
+r3_giaotiep_010,sd_test,Giao tiếp Xã hội,hard,120,C0167,SIGNER_01,generated_r3_llm
+r3_giaotiep_011,train,Giao tiếp Xã hội,hard,107,C0168,SIGNER_08,generated_r3_llm
+r3_giaotiep_012,train,Giao tiếp Xã hội,hard,132,C0169,SIGNER_01,generated_r3_llm
+r4_giaotiep_001,train,Giao tiếp Xã hội,hard,102,C0170,SIGNER_02,generated_r4_llm
+r4_giaotiep_002,train,Giao tiếp Xã hội,hard,114,C0171,SIGNER_06,generated_r4_llm
+r4_giaotiep_003,train,Giao tiếp Xã hội,hard,135,C0172,SIGNER_02,generated_r4_llm
+r4_giaotiep_004,train,Giao tiếp Xã hội,hard,136,C0173,SIGNER_07,generated_r4_llm
+r4_giaotiep_005,train,Giao tiếp Xã hội,hard,124,C0174,SIGNER_01,generated_r4_llm
+r4_giaotiep_006,train,Giao tiếp Xã hội,hard,128,C0175,SIGNER_07,generated_r4_llm
+r4b_giaotiep_001,train,Giao tiếp Xã hội,hard,132,C0176,SIGNER_08,generated_r4b_llm
+r2_giaitri_001,train,Giải trí,standard,79,C0177,SIGNER_06,generated_r2
+r2_giaitri_002,train,Giải trí,standard,70,C0178,SIGNER_02,generated_r2
+r2_giaitri_003,train,Giải trí,standard,80,C0179,SIGNER_03,generated_r2
+r2_giaitri_004,train,Giải trí,standard,77,C0180,SIGNER_06,generated_r2
+r2_giaitri_005,train,Giải trí,hard,117,C0181,SIGNER_07,generated_r2
+r2_giaitri_006,train,Giải trí,hard,113,C0182,SIGNER_03,generated_r2
+r2_giaitri_007,train,Giải trí,standard,74,C0183,SIGNER_08,generated_r2
+r2_giaitri_008,train,Giải trí,standard,82,C0184,SIGNER_07,generated_r2
+r2_giaitri_009,train,Giải trí,standard,96,C0185,SIGNER_07,generated_r2
+r2_giaitri_010,train,Giải trí,standard,77,C0186,SIGNER_07,generated_r2
+r2_giaitri_011,sd_test,Giải trí,hard,103,C0187,SIGNER_07,generated_r2
+r2_giaitri_012,train,Giải trí,standard,93,C0188,SIGNER_02,generated_r2
+r3_giaitri_001,train,Giải trí,hard,144,C0189,SIGNER_07,generated_r3_llm
+r3_giaitri_002,train,Giải trí,hard,134,C0190,SIGNER_01,generated_r3_llm
+r3_giaitri_003,dev,Giải trí,hard,117,C0191,SIGNER_03,generated_r3_llm
+r3_giaitri_004,train,Giải trí,hard,107,C0192,SIGNER_08,generated_r3_llm
+r3_giaitri_005,train,Giải trí,hard,109,C0193,SIGNER_06,generated_r3_llm
+r3_giaitri_006,train,Giải trí,hard,144,C0194,SIGNER_06,generated_r3_llm
+r3_giaitri_007,train,Giải trí,hard,125,C0195,SIGNER_08,generated_r3_llm
+r3_giaitri_008,train,Giải trí,hard,105,C0196,SIGNER_01,generated_r3_llm
+r3_giaitri_009,train,Giải trí,hard,117,C0197,SIGNER_03,generated_r3_llm
+r3_giaitri_010,sd_test,Giải trí,hard,111,C0198,SIGNER_06,generated_r3_llm
+r3_giaitri_011,train,Giải trí,hard,141,C0199,SIGNER_01,generated_r3_llm
+r3_giaitri_012,train,Giải trí,hard,125,C0200,SIGNER_05,generated_r3_llm
+r4_giaitri_001,dev,Giải trí,hard,126,C0201,SIGNER_04,generated_r4_llm
+r4_giaitri_002,train,Giải trí,hard,106,C0202,SIGNER_06,generated_r4_llm
+r4_giaitri_003,train,Giải trí,hard,112,C0203,SIGNER_01,generated_r4_llm
+r4_giaitri_004,train,Giải trí,hard,142,C0204,SIGNER_03,generated_r4_llm
+r4_giaitri_005,train,Giải trí,hard,111,C0205,SIGNER_04,generated_r4_llm
+r4_giaitri_006,train,Giải trí,hard,120,C0206,SIGNER_06,generated_r4_llm
+d00506,train,Học đường,standard,89,C0207,SIGNER_06,generated
+d00507,train,Học đường,standard,86,C0208,SIGNER_03,generated
+d00508,dev,Học đường,standard,78,C0209,SIGNER_05,generated
+d00509,train,Học đường,standard,88,C0210,SIGNER_03,generated
+d00510,train,Học đường,standard,87,C0211,SIGNER_03,generated
+d00511,train,Học đường,standard,83,C0212,SIGNER_07,generated
+d00513,train,Học đường,standard,77,C0213,SIGNER_02,generated
+d00514,train,Học đường,standard,78,C0214,SIGNER_06,generated
+d00515,train,Học đường,standard,77,C0215,SIGNER_08,generated
+d00516,train,Học đường,standard,79,C0216,SIGNER_08,generated
+d00517,dev,Học đường,standard,78,C0217,SIGNER_04,generated
+d00518,train,Học đường,standard,71,C0218,SIGNER_04,generated
+d00519,train,Học đường,standard,71,C0219,SIGNER_01,generated
+gf2_hocduong_001,train,Học đường,hard,125,C0243,SIGNER_06,generated_gf2_llm
+gf2_hocduong_002,train,Học đường,hard,119,C0244,SIGNER_04,generated_gf2_llm
+gf2_hocduong_003,train,Học đường,hard,111,C0245,SIGNER_08,generated_gf2_llm
+r2_hocduong_002,train,Học đường,standard,70,C0220,SIGNER_07,generated_r2
+r2_hocduong_003,train,Học đường,standard,78,C0221,SIGNER_06,generated_r2
+r2_hocduong_004,train,Học đường,standard,80,C0222,SIGNER_02,generated_r2
+r2_hocduong_005,train,Học đường,hard,117,C0223,SIGNER_02,generated_r2
+r2_hocduong_006,sd_test,Học đường,hard,117,C0224,SIGNER_06,generated_r2
+r2_hocduong_007,sd_test,Học đường,standard,74,C0225,SIGNER_05,generated_r2
+r2_hocduong_008,train,Học đường,standard,80,C0226,SIGNER_06,generated_r2
+r2_hocduong_009,train,Học đường,standard,94,C0227,SIGNER_01,generated_r2
+r2_hocduong_010,train,Học đường,standard,80,C0228,SIGNER_03,generated_r2
+r2_hocduong_011,dev,Học đường,standard,95,C0229,SIGNER_07,generated_r2
+r2_hocduong_012,train,Học đường,standard,94,C0230,SIGNER_02,generated_r2
+r3_hocduong_001,train,Học đường,hard,104,C0231,SIGNER_06,generated_r3_llm
+r3_hocduong_002,sd_test,Học đường,hard,136,C0232,SIGNER_03,generated_r3_llm
+r3_hocduong_003,train,Học đường,hard,119,C0233,SIGNER_08,generated_r3_llm
+r3_hocduong_004,train,Học đường,hard,149,C0234,SIGNER_04,generated_r3_llm
+r3_hocduong_005,train,Học đường,hard,120,C0235,SIGNER_05,generated_r3_llm
+r3_hocduong_006,train,Học đường,hard,105,C0236,SIGNER_05,generated_r3_llm
+r3_hocduong_007,train,Học đường,hard,133,C0237,SIGNER_03,generated_r3_llm
+r3_hocduong_008,train,Học đường,hard,106,C0238,SIGNER_07,generated_r3_llm
+r3_hocduong_009,train,Học đường,hard,115,C0239,SIGNER_03,generated_r3_llm
+r3_hocduong_010,train,Học đường,hard,116,C0240,SIGNER_04,generated_r3_llm
+r3_hocduong_011,train,Học đường,hard,117,C0241,SIGNER_05,generated_r3_llm
+r3_hocduong_012,train,Học đường,hard,108,C0242,SIGNER_05,generated_r3_llm
+r4_hocduong_001,train,Học đường,hard,124,C0246,SIGNER_07,generated_r4_llm
+r4_hocduong_002,train,Học đường,hard,150,C0247,SIGNER_06,generated_r4_llm
+r4_hocduong_003,train,Học đường,hard,122,C0248,SIGNER_03,generated_r4_llm
+r4_hocduong_004,train,Học đường,hard,122,C0249,SIGNER_03,generated_r4_llm
+r4_hocduong_005,sd_test,Học đường,hard,121,C0250,SIGNER_03,generated_r4_llm
+r4_hocduong_006,train,Học đường,hard,117,C0251,SIGNER_05,generated_r4_llm
+d01265,train,Lịch sử,standard,74,C0252,SIGNER_04,generated
+d01266,train,Lịch sử,standard,97,C0253,SIGNER_03,generated
+d01267,train,Lịch sử,hard,102,C0254,SIGNER_05,generated
+d01268,train,Lịch sử,hard,108,C0255,SIGNER_01,generated
+d01269,train,Lịch sử,hard,106,C0256,SIGNER_07,generated
+d01270,train,Lịch sử,standard,90,C0257,SIGNER_03,generated
+d01271,train,Lịch sử,hard,105,C0258,SIGNER_07,generated
+d01272,train,Lịch sử,hard,110,C0259,SIGNER_03,generated
+d01273,train,Lịch sử,standard,93,C0260,SIGNER_01,generated
+d01274,train,Lịch sử,standard,99,C0261,SIGNER_03,generated
+d01275,train,Lịch sử,standard,84,C0262,SIGNER_02,generated
+d01276,train,Lịch sử,standard,90,C0263,SIGNER_06,generated
+d01277,train,Lịch sử,standard,95,C0264,SIGNER_02,generated
+d01278,train,Lịch sử,standard,97,C0265,SIGNER_08,generated
+d01279,train,Lịch sử,standard,93,C0266,SIGNER_01,generated
+d01280,train,Lịch sử,hard,104,C0267,SIGNER_01,generated
+d01281,sd_test,Lịch sử,hard,109,C0268,SIGNER_07,generated
+d01282,dev,Lịch sử,standard,90,C0269,SIGNER_08,generated
+d01283,train,Lịch sử,standard,95,C0270,SIGNER_07,generated
+d01284,train,Lịch sử,hard,110,C0271,SIGNER_03,generated
+d01285,dev,Lịch sử,hard,101,C0272,SIGNER_07,generated
+d01286,train,Lịch sử,hard,101,C0273,SIGNER_04,generated
+d01287,dev,Lịch sử,standard,95,C0274,SIGNER_07,generated
+d01288,train,Lịch sử,standard,77,C0275,SIGNER_04,generated
+d01289,train,Lịch sử,standard,92,C0276,SIGNER_04,generated
+d01290,train,Lịch sử,standard,91,C0277,SIGNER_03,generated
+d01291,train,Lịch sử,standard,92,C0278,SIGNER_07,generated
+d01292,train,Lịch sử,hard,104,C0279,SIGNER_06,generated
+d01293,train,Lịch sử,standard,88,C0280,SIGNER_01,generated
+d01294,train,Lịch sử,standard,96,C0281,SIGNER_03,generated
+d01295,train,Lịch sử,standard,95,C0282,SIGNER_01,generated
+d01296,dev,Lịch sử,standard,91,C0283,SIGNER_01,generated
+d01297,sd_test,Lịch sử,standard,92,C0284,SIGNER_05,generated
+d01298,train,Lịch sử,standard,97,C0285,SIGNER_08,generated
+d01299,train,Lịch sử,hard,102,C0286,SIGNER_04,generated
+d01300,train,Lịch sử,standard,96,C0287,SIGNER_01,generated
+d01301,train,Lịch sử,hard,102,C0288,SIGNER_08,generated
+d01302,train,Lịch sử,hard,102,C0289,SIGNER_01,generated
+d01303,train,Lịch sử,standard,97,C0290,SIGNER_05,generated
+d01304,train,Lịch sử,standard,86,C0291,SIGNER_04,generated
+d01305,train,Lịch sử,standard,89,C0292,SIGNER_02,generated
+d01306,train,Lịch sử,hard,104,C0293,SIGNER_03,generated
+d01307,train,Lịch sử,standard,73,C0294,SIGNER_07,generated
+d01308,train,Lịch sử,standard,82,C0295,SIGNER_08,generated
+d01311,train,Lịch sử,standard,87,C0296,SIGNER_08,generated
+d01313,train,Lịch sử,standard,88,C0297,SIGNER_08,generated
+d01314,train,Lịch sử,standard,90,C0298,SIGNER_07,generated
+d01316,sd_test,Lịch sử,standard,72,C0299,SIGNER_03,generated
+d01317,train,Lịch sử,standard,71,C0300,SIGNER_08,generated
+d01318,train,Lịch sử,standard,84,C0301,SIGNER_05,generated
+d01320,train,Lịch sử,standard,72,C0302,SIGNER_06,generated
+d01321,train,Lịch sử,standard,76,C0303,SIGNER_01,generated
+d01322,train,Lịch sử,standard,73,C0304,SIGNER_06,generated
+d01323,train,Lịch sử,standard,78,C0305,SIGNER_05,generated
+d01325,train,Lịch sử,standard,73,C0306,SIGNER_03,generated
+d01326,train,Lịch sử,standard,72,C0307,SIGNER_06,generated
+d01327,train,Lịch sử,standard,73,C0308,SIGNER_02,generated
+d01328,train,Lịch sử,standard,71,C0309,SIGNER_04,generated
+d01329,sd_test,Lịch sử,standard,84,C0310,SIGNER_04,generated
+d01330,train,Lịch sử,standard,71,C0311,SIGNER_07,generated
+d01333,sd_test,Lịch sử,standard,72,C0312,SIGNER_02,generated
+d01334,train,Lịch sử,standard,73,C0313,SIGNER_08,generated
+d01336,sd_test,Lịch sử,standard,76,C0314,SIGNER_02,generated
+d01337,train,Lịch sử,standard,88,C0315,SIGNER_03,generated
+d01339,train,Lịch sử,standard,78,C0316,SIGNER_08,generated
+d01340,train,Lịch sử,standard,72,C0317,SIGNER_01,generated
+d01341,train,Lịch sử,standard,75,C0318,SIGNER_05,generated
+d01342,sd_test,Lịch sử,standard,77,C0319,SIGNER_08,generated
+d01343,train,Lịch sử,standard,75,C0320,SIGNER_01,generated
+d01344,dev,Lịch sử,standard,78,C0321,SIGNER_08,generated
+d01345,train,Lịch sử,standard,81,C0322,SIGNER_02,generated
+d01346,train,Lịch sử,standard,77,C0323,SIGNER_07,generated
+d01347,train,Lịch sử,standard,86,C0324,SIGNER_08,generated
+d01349,dev,Lịch sử,standard,88,C0325,SIGNER_01,generated
+d01350,train,Lịch sử,hard,111,C0326,SIGNER_05,generated
+d01351,train,Lịch sử,standard,97,C0327,SIGNER_02,generated
+d01352,train,Lịch sử,standard,86,C0328,SIGNER_07,generated
+d01353,train,Lịch sử,hard,105,C0329,SIGNER_08,generated
+d01354,train,Lịch sử,standard,92,C0330,SIGNER_05,generated
+d01355,train,Lịch sử,hard,103,C0331,SIGNER_05,generated
+d01356,train,Lịch sử,hard,103,C0332,SIGNER_05,generated
+d01357,train,Lịch sử,standard,85,C0333,SIGNER_01,generated
+r2_lichsu_002,sd_test,Lịch sử,standard,76,C0335,SIGNER_04,generated_r2
+r2_lichsu_003,train,Lịch sử,hard,106,C0336,SIGNER_08,generated_r2
+r2_lichsu_005,train,Lịch sử,hard,118,C0337,SIGNER_03,generated_r2
+r2_lichsu_006,train,Lịch sử,hard,106,C0338,SIGNER_03,generated_r2
+r2_lichsu_007,dev,Lịch sử,standard,76,C0339,SIGNER_06,generated_r2
+r2_lichsu_008,train,Lịch sử,standard,71,C0340,SIGNER_03,generated_r2
+r2_lichsu_009,train,Lịch sử,standard,91,C0341,SIGNER_08,generated_r2
+r2_lichsu_010,train,Lịch sử,standard,80,C0342,SIGNER_05,generated_r2
+r2_lichsu_011,dev,Lịch sử,standard,88,C0343,SIGNER_02,generated_r2
+r2_lichsu_012,train,Lịch sử,standard,97,C0344,SIGNER_04,generated_r2
+r3_lichsu_001,sd_test,Lịch sử,hard,118,C0345,SIGNER_07,generated_r3_llm
+r3_lichsu_002,train,Lịch sử,hard,132,C0346,SIGNER_01,generated_r3_llm
+r3_lichsu_003,train,Lịch sử,hard,111,C0347,SIGNER_07,generated_r3_llm
+r3_lichsu_004,train,Lịch sử,hard,100,C0348,SIGNER_07,generated_r3_llm
+r3_lichsu_005,train,Lịch sử,hard,133,C0349,SIGNER_06,generated_r3_llm
+r3_lichsu_006,train,Lịch sử,hard,123,C0350,SIGNER_08,generated_r3_llm
+r3_lichsu_007,train,Lịch sử,hard,114,C0351,SIGNER_01,generated_r3_llm
+r3_lichsu_008,train,Lịch sử,hard,116,C0352,SIGNER_01,generated_r3_llm
+r3_lichsu_009,train,Lịch sử,hard,139,C0353,SIGNER_04,generated_r3_llm
+r3_lichsu_010,sd_test,Lịch sử,hard,112,C0354,SIGNER_02,generated_r3_llm
+r3_lichsu_011,train,Lịch sử,hard,101,C0355,SIGNER_03,generated_r3_llm
+r3_lichsu_012,train,Lịch sử,hard,125,C0356,SIGNER_02,generated_r3_llm
+r3b_lichsu_001,train,Lịch sử,hard,141,C0357,SIGNER_05,generated_r3b_timeline
+r3b_lichsu_002,train,Lịch sử,hard,143,C0358,SIGNER_02,generated_r3b_timeline
+r3b_lichsu_003,train,Lịch sử,hard,131,C0359,SIGNER_01,generated_r3b_timeline
+r3b_lichsu_004,train,Lịch sử,hard,145,C0360,SIGNER_08,generated_r3b_timeline
+r3b_lichsu_005,train,Lịch sử,hard,129,C0361,SIGNER_04,generated_r3b_timeline
+r3b_lichsu_006,train,Lịch sử,hard,134,C0362,SIGNER_04,generated_r3b_timeline
+r3b_lichsu_007,train,Lịch sử,hard,145,C0363,SIGNER_02,generated_r3b_timeline
+r3b_lichsu_008,train,Lịch sử,hard,145,C0364,SIGNER_03,generated_r3b_timeline
+r3b_lichsu_009,train,Lịch sử,hard,143,C0365,SIGNER_06,generated_r3b_timeline
+r3b_lichsu_010,train,Lịch sử,hard,145,C0366,SIGNER_04,generated_r3b_timeline
+r3b_lichsu_011,train,Lịch sử,hard,141,C0367,SIGNER_05,generated_r3b_timeline
+r3b_lichsu_012,train,Lịch sử,hard,141,C0368,SIGNER_03,generated_r3b_timeline
+r4_lichsu_001,train,Lịch sử,hard,102,C0369,SIGNER_04,generated_r4_llm
+r4_lichsu_002,train,Lịch sử,hard,118,C0370,SIGNER_04,generated_r4_llm
+r4_lichsu_003,train,Lịch sử,hard,114,C0371,SIGNER_08,generated_r4_llm
+r4_lichsu_004,train,Lịch sử,hard,119,C0372,SIGNER_06,generated_r4_llm
+r4_lichsu_005,train,Lịch sử,hard,123,C0373,SIGNER_01,generated_r4_llm
+r4_lichsu_006,dev,Lịch sử,hard,134,C0374,SIGNER_06,generated_r4_llm
+stt13906,train,Lịch sử,standard,70,C0334,SIGNER_03,genhistory.csv
+r2_muasam_001,train,Mua sắm,standard,74,C0375,SIGNER_03,generated_r2
+r2_muasam_002,dev,Mua sắm,standard,84,C0376,SIGNER_08,generated_r2
+r2_muasam_003,train,Mua sắm,standard,90,C0377,SIGNER_04,generated_r2
+r2_muasam_004,train,Mua sắm,standard,87,C0378,SIGNER_05,generated_r2
+r2_muasam_005,train,Mua sắm,hard,116,C0379,SIGNER_02,generated_r2
+r2_muasam_006,train,Mua sắm,hard,111,C0380,SIGNER_07,generated_r2
+r2_muasam_008,train,Mua sắm,standard,73,C0381,SIGNER_07,generated_r2
+r2_muasam_009,dev,Mua sắm,standard,90,C0382,SIGNER_03,generated_r2
+r2_muasam_010,train,Mua sắm,standard,80,C0383,SIGNER_04,generated_r2
+r2_muasam_011,train,Mua sắm,standard,91,C0384,SIGNER_02,generated_r2
+r2_muasam_012,train,Mua sắm,standard,96,C0385,SIGNER_06,generated_r2
+r3_muasam_001,train,Mua sắm,hard,138,C0386,SIGNER_03,generated_r3_llm
+r3_muasam_002,train,Mua sắm,hard,128,C0387,SIGNER_03,generated_r3_llm
+r3_muasam_003,train,Mua sắm,hard,109,C0388,SIGNER_05,generated_r3_llm
+r3_muasam_004,train,Mua sắm,hard,121,C0389,SIGNER_02,generated_r3_llm
+r3_muasam_005,train,Mua sắm,hard,132,C0390,SIGNER_06,generated_r3_llm
+r3_muasam_006,train,Mua sắm,hard,112,C0391,SIGNER_06,generated_r3_llm
+r3_muasam_007,train,Mua sắm,hard,117,C0392,SIGNER_01,generated_r3_llm
+r3_muasam_008,train,Mua sắm,hard,115,C0393,SIGNER_01,generated_r3_llm
+r3_muasam_009,train,Mua sắm,standard,92,C0394,SIGNER_07,generated_r3_llm
+r3_muasam_010,train,Mua sắm,hard,118,C0395,SIGNER_04,generated_r3_llm
+r3_muasam_011,train,Mua sắm,hard,108,C0396,SIGNER_02,generated_r3_llm
+r3_muasam_012,train,Mua sắm,hard,126,C0397,SIGNER_05,generated_r3_llm
+r4_muasam_001,train,Mua sắm,hard,110,C0398,SIGNER_06,generated_r4_llm
+r4_muasam_002,sd_test,Mua sắm,hard,114,C0399,SIGNER_02,generated_r4_llm
+r4_muasam_003,train,Mua sắm,hard,136,C0400,SIGNER_02,generated_r4_llm
+r4_muasam_004,sd_test,Mua sắm,hard,116,C0401,SIGNER_02,generated_r4_llm
+r4_muasam_005,train,Mua sắm,hard,128,C0402,SIGNER_08,generated_r4_llm
+r4_muasam_006,train,Mua sắm,hard,122,C0403,SIGNER_04,generated_r4_llm
+r2_mausac_001,train,Màu sắc,standard,79,C0404,SIGNER_06,generated_r2
+r2_mausac_002,train,Màu sắc,standard,78,C0405,SIGNER_01,generated_r2
+r2_mausac_003,train,Màu sắc,standard,92,C0406,SIGNER_07,generated_r2
+r2_mausac_004,dev,Màu sắc,standard,88,C0407,SIGNER_02,generated_r2
+r2_mausac_005,sd_test,Màu sắc,hard,111,C0408,SIGNER_02,generated_r2
+r2_mausac_006,train,Màu sắc,hard,108,C0409,SIGNER_02,generated_r2
+r2_mausac_009,train,Màu sắc,standard,80,C0410,SIGNER_08,generated_r2
+r2_mausac_010,train,Màu sắc,standard,71,C0411,SIGNER_01,generated_r2
+r2_mausac_011,train,Màu sắc,standard,96,C0412,SIGNER_04,generated_r2
+r2_mausac_012,train,Màu sắc,standard,82,C0413,SIGNER_04,generated_r2
+r3_mausac_001,train,Màu sắc,hard,118,C0414,SIGNER_06,generated_r3_llm
+r3_mausac_002,train,Màu sắc,hard,144,C0415,SIGNER_05,generated_r3_llm
+r3_mausac_003,train,Màu sắc,hard,140,C0416,SIGNER_04,generated_r3_llm
+r3_mausac_004,train,Màu sắc,hard,116,C0417,SIGNER_01,generated_r3_llm
+r3_mausac_005,train,Màu sắc,hard,121,C0418,SIGNER_06,generated_r3_llm
+r3_mausac_006,sd_test,Màu sắc,hard,110,C0419,SIGNER_06,generated_r3_llm
+r3_mausac_007,train,Màu sắc,hard,106,C0420,SIGNER_04,generated_r3_llm
+r3_mausac_008,train,Màu sắc,hard,108,C0421,SIGNER_01,generated_r3_llm
+r3_mausac_009,train,Màu sắc,hard,109,C0422,SIGNER_03,generated_r3_llm
+r3_mausac_010,train,Màu sắc,hard,122,C0423,SIGNER_07,generated_r3_llm
+r3_mausac_011,dev,Màu sắc,hard,114,C0424,SIGNER_02,generated_r3_llm
+r3_mausac_012,train,Màu sắc,hard,114,C0425,SIGNER_07,generated_r3_llm
+r4_mausac_001,train,Màu sắc,standard,94,C0426,SIGNER_08,generated_r4_llm
+r4_mausac_002,train,Màu sắc,hard,113,C0427,SIGNER_01,generated_r4_llm
+r4_mausac_003,train,Màu sắc,hard,107,C0428,SIGNER_04,generated_r4_llm
+r4_mausac_004,train,Màu sắc,hard,119,C0429,SIGNER_08,generated_r4_llm
+r4_mausac_005,train,Màu sắc,hard,144,C0430,SIGNER_08,generated_r4_llm
+r4_mausac_006,train,Màu sắc,hard,111,C0431,SIGNER_01,generated_r4_llm
+r4b_mausac_001,train,Màu sắc,hard,110,C0432,SIGNER_08,generated_r4b_llm
+gf2_phuongtien_001,train,Phương tiện di chuyển,hard,120,C0457,SIGNER_05,generated_gf2_llm
+gf2_phuongtien_002,train,Phương tiện di chuyển,hard,131,C0458,SIGNER_02,generated_gf2_llm
+gf2_phuongtien_003,train,Phương tiện di chuyển,hard,103,C0459,SIGNER_05,generated_gf2_llm
+r2_phuongtien_001,train,Phương tiện di chuyển,standard,76,C0433,SIGNER_04,generated_r2
+r2_phuongtien_002,train,Phương tiện di chuyển,standard,72,C0434,SIGNER_02,generated_r2
+r2_phuongtien_003,train,Phương tiện di chuyển,standard,92,C0435,SIGNER_01,generated_r2
+r2_phuongtien_004,train,Phương tiện di chuyển,standard,83,C0436,SIGNER_08,generated_r2
+r2_phuongtien_005,train,Phương tiện di chuyển,hard,126,C0437,SIGNER_08,generated_r2
+r2_phuongtien_006,sd_test,Phương tiện di chuyển,hard,119,C0438,SIGNER_02,generated_r2
+r2_phuongtien_007,dev,Phương tiện di chuyển,standard,80,C0439,SIGNER_07,generated_r2
+r2_phuongtien_008,train,Phương tiện di chuyển,standard,93,C0440,SIGNER_06,generated_r2
+r2_phuongtien_009,train,Phương tiện di chuyển,hard,101,C0441,SIGNER_01,generated_r2
+r2_phuongtien_010,train,Phương tiện di chuyển,standard,77,C0442,SIGNER_01,generated_r2
+r2_phuongtien_011,train,Phương tiện di chuyển,standard,98,C0443,SIGNER_05,generated_r2
+r2_phuongtien_012,train,Phương tiện di chuyển,standard,97,C0444,SIGNER_02,generated_r2
+r3_phuongtien_001,sd_test,Phương tiện di chuyển,hard,106,C0445,SIGNER_03,generated_r3_llm
+r3_phuongtien_002,train,Phương tiện di chuyển,hard,112,C0446,SIGNER_04,generated_r3_llm
+r3_phuongtien_003,sd_test,Phương tiện di chuyển,hard,105,C0447,SIGNER_08,generated_r3_llm
+r3_phuongtien_004,train,Phương tiện di chuyển,standard,95,C0448,SIGNER_03,generated_r3_llm
+r3_phuongtien_005,train,Phương tiện di chuyển,hard,110,C0449,SIGNER_04,generated_r3_llm
+r3_phuongtien_006,dev,Phương tiện di chuyển,hard,128,C0450,SIGNER_06,generated_r3_llm
+r3_phuongtien_007,train,Phương tiện di chuyển,hard,100,C0451,SIGNER_05,generated_r3_llm
+r3_phuongtien_008,train,Phương tiện di chuyển,hard,124,C0452,SIGNER_07,generated_r3_llm
+r3_phuongtien_009,train,Phương tiện di chuyển,standard,90,C0453,SIGNER_02,generated_r3_llm
+r3_phuongtien_010,train,Phương tiện di chuyển,hard,109,C0454,SIGNER_06,generated_r3_llm
+r3_phuongtien_011,train,Phương tiện di chuyển,hard,136,C0455,SIGNER_06,generated_r3_llm
+r3_phuongtien_012,train,Phương tiện di chuyển,hard,119,C0456,SIGNER_06,generated_r3_llm
+r4_phuongtien_001,train,Phương tiện di chuyển,hard,146,C0460,SIGNER_05,generated_r4_llm
+r4_phuongtien_002,train,Phương tiện di chuyển,hard,105,C0461,SIGNER_07,generated_r4_llm
+r4_phuongtien_003,train,Phương tiện di chuyển,hard,119,C0462,SIGNER_04,generated_r4_llm
+r4_phuongtien_004,train,Phương tiện di chuyển,hard,118,C0463,SIGNER_02,generated_r4_llm
+r4_phuongtien_005,train,Phương tiện di chuyển,hard,118,C0464,SIGNER_03,generated_r4_llm
+r4_phuongtien_006,train,Phương tiện di chuyển,hard,129,C0465,SIGNER_03,generated_r4_llm
+gf_sothich_001,train,Sở thích,hard,131,C0489,SIGNER_02,generated_gf_llm
+gf_sothich_002,train,Sở thích,hard,109,C0490,SIGNER_08,generated_gf_llm
+gf_sothich_003,train,Sở thích,hard,117,C0491,SIGNER_08,generated_gf_llm
+gf_sothich_004,train,Sở thích,standard,99,C0492,SIGNER_02,generated_gf_llm
+r2_sothich_002,train,Sở thích,standard,77,C0466,SIGNER_02,generated_r2
+r2_sothich_003,dev,Sở thích,standard,81,C0467,SIGNER_03,generated_r2
+r2_sothich_004,train,Sở thích,standard,90,C0468,SIGNER_08,generated_r2
+r2_sothich_005,train,Sở thích,hard,109,C0469,SIGNER_01,generated_r2
+r2_sothich_006,train,Sở thích,hard,118,C0470,SIGNER_01,generated_r2
+r2_sothich_007,train,Sở thích,standard,81,C0471,SIGNER_06,generated_r2
+r2_sothich_008,train,Sở thích,standard,86,C0472,SIGNER_06,generated_r2
+r2_sothich_009,train,Sở thích,standard,96,C0473,SIGNER_08,generated_r2
+r2_sothich_010,train,Sở thích,standard,74,C0474,SIGNER_02,generated_r2
+r2_sothich_011,sd_test,Sở thích,standard,95,C0475,SIGNER_02,generated_r2
+r2_sothich_012,train,Sở thích,standard,98,C0476,SIGNER_02,generated_r2
+r3_sothich_001,dev,Sở thích,hard,136,C0477,SIGNER_01,generated_r3_llm
+r3_sothich_002,train,Sở thích,hard,113,C0478,SIGNER_02,generated_r3_llm
+r3_sothich_003,train,Sở thích,hard,108,C0479,SIGNER_03,generated_r3_llm
+r3_sothich_004,train,Sở thích,hard,106,C0480,SIGNER_06,generated_r3_llm
+r3_sothich_005,train,Sở thích,hard,127,C0481,SIGNER_06,generated_r3_llm
+r3_sothich_006,train,Sở thích,hard,127,C0482,SIGNER_08,generated_r3_llm
+r3_sothich_007,train,Sở thích,hard,106,C0483,SIGNER_02,generated_r3_llm
+r3_sothich_008,train,Sở thích,hard,105,C0484,SIGNER_07,generated_r3_llm
+r3_sothich_009,train,Sở thích,hard,139,C0485,SIGNER_01,generated_r3_llm
+r3_sothich_010,sd_test,Sở thích,standard,97,C0486,SIGNER_05,generated_r3_llm
+r3_sothich_011,train,Sở thích,hard,104,C0487,SIGNER_02,generated_r3_llm
+r3_sothich_012,train,Sở thích,standard,92,C0488,SIGNER_03,generated_r3_llm
+r4_sothich_001,sd_test,Sở thích,hard,102,C0493,SIGNER_01,generated_r4_llm
+r4_sothich_002,train,Sở thích,standard,92,C0494,SIGNER_01,generated_r4_llm
+r4_sothich_003,train,Sở thích,hard,126,C0495,SIGNER_01,generated_r4_llm
+r4_sothich_004,train,Sở thích,hard,127,C0496,SIGNER_04,generated_r4_llm
+r4_sothich_005,train,Sở thích,hard,132,C0497,SIGNER_08,generated_r4_llm
+r4_sothich_006,train,Sở thích,standard,96,C0498,SIGNER_06,generated_r4_llm
+d00200,train,Sức khỏe,standard,76,C0499,SIGNER_04,generated
+d00221,train,Sức khỏe,standard,71,C0500,SIGNER_04,generated
+gf2_suckhoe_001,train,Sức khỏe,hard,152,C0524,SIGNER_04,generated_gf2_llm
+gf2_suckhoe_002,train,Sức khỏe,hard,115,C0525,SIGNER_04,generated_gf2_llm
+gf2_suckhoe_003,train,Sức khỏe,hard,170,C0526,SIGNER_03,generated_gf2_llm
+gf_suckhoe_001,train,Sức khỏe,hard,148,C0527,SIGNER_08,generated_gf_llm
+gf_suckhoe_002,train,Sức khỏe,hard,148,C0528,SIGNER_05,generated_gf_llm
+gf_suckhoe_003,train,Sức khỏe,hard,133,C0529,SIGNER_08,generated_gf_llm
+gf_suckhoe_004,train,Sức khỏe,hard,106,C0530,SIGNER_05,generated_gf_llm
+gf_suckhoe_005,train,Sức khỏe,hard,126,C0531,SIGNER_04,generated_gf_llm
+gf_suckhoe_006,train,Sức khỏe,hard,120,C0532,SIGNER_01,generated_gf_llm
+gf_suckhoe_007,train,Sức khỏe,hard,149,C0533,SIGNER_03,generated_gf_llm
+gf_suckhoe_008,train,Sức khỏe,standard,99,C0534,SIGNER_05,generated_gf_llm
+gf_suckhoe_009,train,Sức khỏe,standard,96,C0535,SIGNER_06,generated_gf_llm
+gf_suckhoe_010,train,Sức khỏe,hard,119,C0536,SIGNER_06,generated_gf_llm
+gf_suckhoe_011,train,Sức khỏe,hard,121,C0537,SIGNER_03,generated_gf_llm
+gf_suckhoe_012,train,Sức khỏe,hard,138,C0538,SIGNER_01,generated_gf_llm
+r2_suckhoe_001,dev,Sức khỏe,standard,76,C0501,SIGNER_07,generated_r2
+r2_suckhoe_002,train,Sức khỏe,standard,87,C0502,SIGNER_02,generated_r2
+r2_suckhoe_003,train,Sức khỏe,standard,79,C0503,SIGNER_02,generated_r2
+r2_suckhoe_004,train,Sức khỏe,hard,101,C0504,SIGNER_08,generated_r2
+r2_suckhoe_005,train,Sức khỏe,hard,110,C0505,SIGNER_06,generated_r2
+r2_suckhoe_006,dev,Sức khỏe,hard,122,C0506,SIGNER_01,generated_r2
+r2_suckhoe_008,train,Sức khỏe,standard,83,C0507,SIGNER_05,generated_r2
+r2_suckhoe_009,train,Sức khỏe,standard,89,C0508,SIGNER_08,generated_r2
+r2_suckhoe_010,train,Sức khỏe,standard,76,C0509,SIGNER_01,generated_r2
+r2_suckhoe_011,sd_test,Sức khỏe,standard,88,C0510,SIGNER_06,generated_r2
+r2_suckhoe_012,train,Sức khỏe,hard,106,C0511,SIGNER_07,generated_r2
+r3_suckhoe_001,train,Sức khỏe,hard,125,C0512,SIGNER_01,generated_r3_llm
+r3_suckhoe_002,train,Sức khỏe,hard,124,C0513,SIGNER_05,generated_r3_llm
+r3_suckhoe_003,dev,Sức khỏe,hard,120,C0514,SIGNER_06,generated_r3_llm
+r3_suckhoe_004,train,Sức khỏe,hard,122,C0515,SIGNER_05,generated_r3_llm
+r3_suckhoe_005,sd_test,Sức khỏe,hard,116,C0516,SIGNER_02,generated_r3_llm
+r3_suckhoe_006,train,Sức khỏe,hard,114,C0517,SIGNER_07,generated_r3_llm
+r3_suckhoe_007,train,Sức khỏe,hard,137,C0518,SIGNER_07,generated_r3_llm
+r3_suckhoe_008,train,Sức khỏe,hard,109,C0519,SIGNER_06,generated_r3_llm
+r3_suckhoe_009,train,Sức khỏe,hard,134,C0520,SIGNER_02,generated_r3_llm
+r3_suckhoe_010,train,Sức khỏe,hard,113,C0521,SIGNER_06,generated_r3_llm
+r3_suckhoe_011,train,Sức khỏe,hard,117,C0522,SIGNER_01,generated_r3_llm
+r3_suckhoe_012,train,Sức khỏe,hard,117,C0523,SIGNER_03,generated_r3_llm
+r4_suckhoe_001,sd_test,Sức khỏe,standard,91,C0539,SIGNER_04,generated_r4_llm
+r4_suckhoe_002,train,Sức khỏe,hard,127,C0540,SIGNER_02,generated_r4_llm
+r4_suckhoe_003,train,Sức khỏe,hard,129,C0541,SIGNER_03,generated_r4_llm
+r4_suckhoe_004,sd_test,Sức khỏe,hard,125,C0542,SIGNER_06,generated_r4_llm
+r4_suckhoe_005,train,Sức khỏe,hard,127,C0543,SIGNER_02,generated_r4_llm
+r4_suckhoe_006,train,Sức khỏe,hard,121,C0544,SIGNER_06,generated_r4_llm
+r2_thiennhien_002,train,Thiên nhiên,standard,71,C0545,SIGNER_05,generated_r2
+r2_thiennhien_003,train,Thiên nhiên,standard,83,C0546,SIGNER_01,generated_r2
+r2_thiennhien_004,train,Thiên nhiên,standard,79,C0547,SIGNER_01,generated_r2
+r2_thiennhien_005,train,Thiên nhiên,hard,119,C0548,SIGNER_07,generated_r2
+r2_thiennhien_006,train,Thiên nhiên,hard,116,C0549,SIGNER_07,generated_r2
+r2_thiennhien_007,train,Thiên nhiên,standard,82,C0550,SIGNER_05,generated_r2
+r2_thiennhien_008,train,Thiên nhiên,standard,85,C0551,SIGNER_03,generated_r2
+r2_thiennhien_009,train,Thiên nhiên,standard,78,C0552,SIGNER_06,generated_r2
+r2_thiennhien_010,train,Thiên nhiên,standard,97,C0553,SIGNER_07,generated_r2
+r2_thiennhien_011,train,Thiên nhiên,hard,101,C0554,SIGNER_04,generated_r2
+r2_thiennhien_012,train,Thiên nhiên,hard,102,C0555,SIGNER_08,generated_r2
+r3_thiennhien_001,train,Thiên nhiên,hard,135,C0556,SIGNER_02,generated_r3_llm
+r3_thiennhien_002,dev,Thiên nhiên,hard,128,C0557,SIGNER_08,generated_r3_llm
+r3_thiennhien_003,train,Thiên nhiên,hard,111,C0558,SIGNER_07,generated_r3_llm
+r3_thiennhien_004,dev,Thiên nhiên,standard,92,C0559,SIGNER_07,generated_r3_llm
+r3_thiennhien_005,train,Thiên nhiên,hard,122,C0560,SIGNER_03,generated_r3_llm
+r3_thiennhien_006,train,Thiên nhiên,hard,131,C0561,SIGNER_03,generated_r3_llm
+r3_thiennhien_007,train,Thiên nhiên,hard,106,C0562,SIGNER_07,generated_r3_llm
+r3_thiennhien_008,train,Thiên nhiên,hard,115,C0563,SIGNER_06,generated_r3_llm
+r3_thiennhien_009,train,Thiên nhiên,hard,109,C0564,SIGNER_06,generated_r3_llm
+r3_thiennhien_010,train,Thiên nhiên,hard,104,C0565,SIGNER_04,generated_r3_llm
+r3_thiennhien_011,train,Thiên nhiên,hard,132,C0566,SIGNER_05,generated_r3_llm
+r3_thiennhien_012,train,Thiên nhiên,hard,133,C0567,SIGNER_08,generated_r3_llm
+r4_thiennhien_001,train,Thiên nhiên,standard,90,C0568,SIGNER_06,generated_r4_llm
+r4_thiennhien_002,sd_test,Thiên nhiên,hard,119,C0569,SIGNER_07,generated_r4_llm
+r4_thiennhien_003,sd_test,Thiên nhiên,hard,101,C0570,SIGNER_06,generated_r4_llm
+r4_thiennhien_004,train,Thiên nhiên,hard,117,C0571,SIGNER_01,generated_r4_llm
+r4_thiennhien_005,train,Thiên nhiên,hard,113,C0572,SIGNER_02,generated_r4_llm
+r4_thiennhien_006,train,Thiên nhiên,hard,136,C0573,SIGNER_02,generated_r4_llm
+r4b_thiennhien_001,train,Thiên nhiên,hard,129,C0574,SIGNER_06,generated_r4b_llm
+d01655,train,Thời tiết và Mùa,hard,105,C0575,SIGNER_06,generated
+d01656,train,Thời tiết và Mùa,standard,96,C0576,SIGNER_06,generated
+d01657,train,Thời tiết và Mùa,standard,85,C0577,SIGNER_08,generated
+d01658,sd_test,Thời tiết và Mùa,standard,80,C0578,SIGNER_04,generated
+d01659,train,Thời tiết và Mùa,standard,75,C0579,SIGNER_01,generated
+d01660,train,Thời tiết và Mùa,standard,81,C0580,SIGNER_02,generated
+d01661,train,Thời tiết và Mùa,standard,95,C0581,SIGNER_04,generated
+d01662,train,Thời tiết và Mùa,standard,78,C0582,SIGNER_01,generated
+d01663,train,Thời tiết và Mùa,standard,81,C0583,SIGNER_03,generated
+d01664,train,Thời tiết và Mùa,standard,91,C0584,SIGNER_05,generated
+d01665,train,Thời tiết và Mùa,standard,78,C0585,SIGNER_02,generated
+d01666,train,Thời tiết và Mùa,standard,79,C0586,SIGNER_07,generated
+d01667,train,Thời tiết và Mùa,standard,82,C0587,SIGNER_04,generated
+d01668,train,Thời tiết và Mùa,standard,77,C0588,SIGNER_07,generated
+d01669,train,Thời tiết và Mùa,standard,71,C0589,SIGNER_04,generated
+d01670,train,Thời tiết và Mùa,standard,74,C0590,SIGNER_02,generated
+d01671,train,Thời tiết và Mùa,standard,77,C0591,SIGNER_03,generated
+d01673,train,Thời tiết và Mùa,standard,76,C0592,SIGNER_02,generated
+d01674,train,Thời tiết và Mùa,standard,76,C0593,SIGNER_04,generated
+d01675,train,Thời tiết và Mùa,standard,75,C0594,SIGNER_01,generated
+d01676,train,Thời tiết và Mùa,standard,79,C0595,SIGNER_07,generated
+d01677,train,Thời tiết và Mùa,standard,77,C0596,SIGNER_02,generated
+d01678,train,Thời tiết và Mùa,standard,80,C0597,SIGNER_06,generated
+d01679,train,Thời tiết và Mùa,standard,75,C0598,SIGNER_06,generated
+d01680,train,Thời tiết và Mùa,standard,76,C0599,SIGNER_04,generated
+d01681,train,Thời tiết và Mùa,standard,79,C0600,SIGNER_08,generated
+d01682,train,Thời tiết và Mùa,standard,86,C0601,SIGNER_04,generated
+d01683,train,Thời tiết và Mùa,standard,83,C0602,SIGNER_05,generated
+d01684,dev,Thời tiết và Mùa,standard,77,C0603,SIGNER_02,generated
+d01685,train,Thời tiết và Mùa,standard,79,C0604,SIGNER_06,generated
+d01686,train,Thời tiết và Mùa,standard,78,C0605,SIGNER_05,generated
+d01687,train,Thời tiết và Mùa,standard,74,C0606,SIGNER_07,generated
+d01688,train,Thời tiết và Mùa,standard,73,C0607,SIGNER_08,generated
+d01689,train,Thời tiết và Mùa,standard,78,C0608,SIGNER_01,generated
+d01690,train,Thời tiết và Mùa,standard,75,C0609,SIGNER_04,generated
+d01691,train,Thời tiết và Mùa,standard,80,C0610,SIGNER_01,generated
+d01692,train,Thời tiết và Mùa,standard,77,C0611,SIGNER_08,generated
+d01693,train,Thời tiết và Mùa,standard,74,C0612,SIGNER_01,generated
+d01694,train,Thời tiết và Mùa,standard,78,C0613,SIGNER_07,generated
+d01695,train,Thời tiết và Mùa,standard,89,C0614,SIGNER_06,generated
+r2_thoitiet_001,dev,Thời tiết và Mùa,standard,81,C0615,SIGNER_05,generated_r2
+r2_thoitiet_002,dev,Thời tiết và Mùa,standard,78,C0616,SIGNER_08,generated_r2
+r2_thoitiet_003,train,Thời tiết và Mùa,standard,86,C0617,SIGNER_03,generated_r2
+r2_thoitiet_004,train,Thời tiết và Mùa,standard,81,C0618,SIGNER_04,generated_r2
+r2_thoitiet_005,train,Thời tiết và Mùa,hard,114,C0619,SIGNER_03,generated_r2
+r2_thoitiet_006,train,Thời tiết và Mùa,hard,117,C0620,SIGNER_01,generated_r2
+r2_thoitiet_007,sd_test,Thời tiết và Mùa,standard,87,C0621,SIGNER_01,generated_r2
+r2_thoitiet_008,dev,Thời tiết và Mùa,standard,81,C0622,SIGNER_07,generated_r2
+r2_thoitiet_009,train,Thời tiết và Mùa,standard,82,C0623,SIGNER_08,generated_r2
+r2_thoitiet_010,train,Thời tiết và Mùa,hard,102,C0624,SIGNER_08,generated_r2
+r2_thoitiet_011,sd_test,Thời tiết và Mùa,hard,105,C0625,SIGNER_02,generated_r2
+r2_thoitiet_012,train,Thời tiết và Mùa,hard,101,C0626,SIGNER_04,generated_r2
+r3_thoitiet_001,train,Thời tiết và Mùa,hard,136,C0627,SIGNER_07,generated_r3_llm
+r3_thoitiet_002,train,Thời tiết và Mùa,hard,102,C0628,SIGNER_01,generated_r3_llm
+r3_thoitiet_003,train,Thời tiết và Mùa,hard,110,C0629,SIGNER_08,generated_r3_llm
+r3_thoitiet_004,train,Thời tiết và Mùa,hard,108,C0630,SIGNER_03,generated_r3_llm
+r3_thoitiet_005,sd_test,Thời tiết và Mùa,hard,129,C0631,SIGNER_01,generated_r3_llm
+r3_thoitiet_006,sd_test,Thời tiết và Mùa,hard,116,C0632,SIGNER_03,generated_r3_llm
+r3_thoitiet_007,train,Thời tiết và Mùa,hard,113,C0633,SIGNER_03,generated_r3_llm
+r3_thoitiet_008,train,Thời tiết và Mùa,hard,101,C0634,SIGNER_07,generated_r3_llm
+r3_thoitiet_009,train,Thời tiết và Mùa,hard,114,C0635,SIGNER_05,generated_r3_llm
+r3_thoitiet_010,sd_test,Thời tiết và Mùa,hard,126,C0636,SIGNER_04,generated_r3_llm
+r3_thoitiet_011,train,Thời tiết và Mùa,hard,133,C0637,SIGNER_07,generated_r3_llm
+r3_thoitiet_012,train,Thời tiết và Mùa,hard,117,C0638,SIGNER_03,generated_r3_llm
+r4_thoitiet_001,train,Thời tiết và Mùa,hard,115,C0639,SIGNER_07,generated_r4_llm
+r4_thoitiet_002,train,Thời tiết và Mùa,hard,123,C0640,SIGNER_08,generated_r4_llm
+r4_thoitiet_003,dev,Thời tiết và Mùa,hard,115,C0641,SIGNER_03,generated_r4_llm
+r4_thoitiet_004,train,Thời tiết và Mùa,hard,100,C0642,SIGNER_02,generated_r4_llm
+r4_thoitiet_005,train,Thời tiết và Mùa,hard,107,C0643,SIGNER_02,generated_r4_llm
+r4_thoitiet_006,train,Thời tiết và Mùa,hard,118,C0644,SIGNER_03,generated_r4_llm
+r4b_thoitiet_001,train,Thời tiết và Mùa,hard,131,C0645,SIGNER_01,generated_r4b_llm
+d00035,sd_test,Xã hội,hard,109,C0646,SIGNER_06,generated
+d00036,train,Xã hội,standard,80,C0647,SIGNER_03,generated
+d00037,train,Xã hội,standard,93,C0648,SIGNER_03,generated
+d00038,train,Xã hội,standard,90,C0649,SIGNER_02,generated
+d00039,train,Xã hội,standard,80,C0650,SIGNER_03,generated
+d00040,train,Xã hội,standard,86,C0651,SIGNER_05,generated
+d00041,dev,Xã hội,standard,78,C0652,SIGNER_08,generated
+d00042,train,Xã hội,standard,81,C0653,SIGNER_02,generated
+d00043,train,Xã hội,standard,81,C0654,SIGNER_02,generated
+d00044,train,Xã hội,standard,82,C0655,SIGNER_07,generated
+d00045,train,Xã hội,standard,80,C0656,SIGNER_05,generated
+d00046,train,Xã hội,standard,84,C0657,SIGNER_06,generated
+d00047,train,Xã hội,standard,73,C0658,SIGNER_01,generated
+d00048,train,Xã hội,standard,75,C0659,SIGNER_02,generated
+d00049,train,Xã hội,standard,77,C0660,SIGNER_06,generated
+d00050,train,Xã hội,standard,84,C0661,SIGNER_04,generated
+d00051,train,Xã hội,standard,79,C0662,SIGNER_05,generated
+d00052,train,Xã hội,standard,76,C0663,SIGNER_04,generated
+d00053,train,Xã hội,standard,73,C0664,SIGNER_02,generated
+d00054,train,Xã hội,standard,94,C0665,SIGNER_04,generated
+d00055,train,Xã hội,standard,76,C0666,SIGNER_01,generated
+d00056,train,Xã hội,standard,79,C0667,SIGNER_03,generated
+d00057,train,Xã hội,standard,79,C0668,SIGNER_08,generated
+d00058,train,Xã hội,standard,79,C0669,SIGNER_05,generated
+d00059,train,Xã hội,standard,70,C0670,SIGNER_03,generated
+d00060,train,Xã hội,standard,83,C0671,SIGNER_04,generated
+d00061,train,Xã hội,standard,85,C0672,SIGNER_05,generated
+d00062,train,Xã hội,standard,77,C0673,SIGNER_07,generated
+d00063,train,Xã hội,standard,78,C0674,SIGNER_02,generated
+d00064,train,Xã hội,standard,70,C0675,SIGNER_07,generated
+d00065,train,Xã hội,standard,83,C0676,SIGNER_05,generated
+d00066,sd_test,Xã hội,standard,79,C0677,SIGNER_02,generated
+d00067,train,Xã hội,standard,73,C0678,SIGNER_07,generated
+d00068,train,Xã hội,standard,79,C0679,SIGNER_03,generated
+d00069,train,Xã hội,standard,76,C0680,SIGNER_02,generated
+d00070,train,Xã hội,standard,74,C0681,SIGNER_04,generated
+d00071,train,Xã hội,standard,72,C0682,SIGNER_08,generated
+d00072,train,Xã hội,standard,83,C0683,SIGNER_06,generated
+d00073,train,Xã hội,standard,79,C0684,SIGNER_08,generated
+gf2_xahoi_001,train,Xã hội,hard,126,C0709,SIGNER_02,generated_gf2_llm
+gf2_xahoi_002,train,Xã hội,hard,128,C0710,SIGNER_04,generated_gf2_llm
+gf2_xahoi_003,sd_test,Xã hội,hard,108,C0711,SIGNER_06,generated_gf2_llm
+gf_xahoi_002,train,Xã hội,hard,129,C0712,SIGNER_04,generated_gf_llm
+gf_xahoi_003,sd_test,Xã hội,hard,106,C0713,SIGNER_07,generated_gf_llm
+gf_xahoi_004,train,Xã hội,hard,100,C0714,SIGNER_05,generated_gf_llm
+gf_xahoi_005,train,Xã hội,hard,119,C0715,SIGNER_05,generated_gf_llm
+gf_xahoi_006,sd_test,Xã hội,hard,124,C0716,SIGNER_05,generated_gf_llm
+gf_xahoi_007,train,Xã hội,hard,137,C0717,SIGNER_05,generated_gf_llm
+gf_xahoi_008,train,Xã hội,standard,97,C0718,SIGNER_02,generated_gf_llm
+gf_xahoi_009,train,Xã hội,hard,108,C0719,SIGNER_02,generated_gf_llm
+gf_xahoi_010,train,Xã hội,hard,100,C0720,SIGNER_05,generated_gf_llm
+gf_xahoi_011,train,Xã hội,standard,96,C0721,SIGNER_06,generated_gf_llm
+gf_xahoi_012,train,Xã hội,hard,126,C0722,SIGNER_06,generated_gf_llm
+r2_xahoi_001,dev,Xã hội,standard,83,C0685,SIGNER_06,generated_r2
+r2_xahoi_002,train,Xã hội,standard,79,C0686,SIGNER_08,generated_r2
+r2_xahoi_003,dev,Xã hội,standard,87,C0687,SIGNER_08,generated_r2
+r2_xahoi_004,train,Xã hội,standard,90,C0688,SIGNER_08,generated_r2
+r2_xahoi_005,train,Xã hội,hard,126,C0689,SIGNER_03,generated_r2
+r2_xahoi_006,sd_test,Xã hội,hard,117,C0690,SIGNER_01,generated_r2
+r2_xahoi_007,train,Xã hội,standard,87,C0691,SIGNER_08,generated_r2
+r2_xahoi_008,train,Xã hội,standard,88,C0692,SIGNER_05,generated_r2
+r2_xahoi_009,train,Xã hội,hard,102,C0693,SIGNER_04,generated_r2
+r2_xahoi_010,train,Xã hội,hard,111,C0694,SIGNER_02,generated_r2
+r2_xahoi_011,train,Xã hội,standard,99,C0695,SIGNER_08,generated_r2
+r2_xahoi_012,train,Xã hội,hard,110,C0696,SIGNER_06,generated_r2
+r3_xahoi_001,train,Xã hội,hard,124,C0697,SIGNER_08,generated_r3_llm
+r3_xahoi_002,train,Xã hội,hard,115,C0698,SIGNER_04,generated_r3_llm
+r3_xahoi_003,train,Xã hội,hard,120,C0699,SIGNER_01,generated_r3_llm
+r3_xahoi_004,train,Xã hội,hard,113,C0700,SIGNER_08,generated_r3_llm
+r3_xahoi_005,train,Xã hội,hard,137,C0701,SIGNER_06,generated_r3_llm
+r3_xahoi_006,train,Xã hội,hard,126,C0702,SIGNER_03,generated_r3_llm
+r3_xahoi_007,train,Xã hội,hard,148,C0703,SIGNER_08,generated_r3_llm
+r3_xahoi_008,dev,Xã hội,hard,120,C0704,SIGNER_03,generated_r3_llm
+r3_xahoi_009,train,Xã hội,hard,117,C0705,SIGNER_03,generated_r3_llm
+r3_xahoi_010,train,Xã hội,hard,123,C0706,SIGNER_04,generated_r3_llm
+r3_xahoi_011,train,Xã hội,standard,95,C0707,SIGNER_05,generated_r3_llm
+r3_xahoi_012,dev,Xã hội,hard,109,C0708,SIGNER_07,generated_r3_llm
+r4_xahoi_001,train,Xã hội,hard,118,C0723,SIGNER_01,generated_r4_llm
+r4_xahoi_002,dev,Xã hội,hard,101,C0724,SIGNER_05,generated_r4_llm
+r4_xahoi_003,train,Xã hội,hard,108,C0725,SIGNER_01,generated_r4_llm
+r4_xahoi_004,train,Xã hội,hard,120,C0726,SIGNER_03,generated_r4_llm
+r4_xahoi_005,train,Xã hội,hard,114,C0727,SIGNER_03,generated_r4_llm
+r4_xahoi_006,sd_test,Xã hội,hard,118,C0728,SIGNER_04,generated_r4_llm
+d00011,train,Ăn uống,standard,71,C0729,SIGNER_07,generated
+gf_anuong_001,train,Ăn uống,hard,122,C0749,SIGNER_07,generated_gf_llm
+gf_anuong_002,train,Ăn uống,hard,110,C0750,SIGNER_05,generated_gf_llm
+gf_anuong_003,train,Ăn uống,hard,122,C0751,SIGNER_05,generated_gf_llm
+gf_anuong_004,train,Ăn uống,hard,104,C0752,SIGNER_05,generated_gf_llm
+gf_anuong_005,train,Ăn uống,hard,122,C0753,SIGNER_05,generated_gf_llm
+gf_anuong_006,train,Ăn uống,hard,117,C0754,SIGNER_02,generated_gf_llm
+gf_anuong_007,train,Ăn uống,hard,127,C0755,SIGNER_03,generated_gf_llm
+gf_anuong_008,train,Ăn uống,standard,92,C0756,SIGNER_08,generated_gf_llm
+gf_anuong_009,train,Ăn uống,hard,130,C0757,SIGNER_04,generated_gf_llm
+gf_anuong_010,train,Ăn uống,hard,106,C0758,SIGNER_05,generated_gf_llm
+gf_anuong_011,train,Ăn uống,hard,105,C0759,SIGNER_07,generated_gf_llm
+gf_anuong_012,train,Ăn uống,hard,114,C0760,SIGNER_08,generated_gf_llm
+r2_anuong_002,train,Ăn uống,standard,74,C0730,SIGNER_06,generated_r2
+r2_anuong_005,train,Ăn uống,hard,116,C0731,SIGNER_06,generated_r2
+r2_anuong_006,train,Ăn uống,hard,105,C0732,SIGNER_07,generated_r2
+r2_anuong_008,sd_test,Ăn uống,standard,73,C0733,SIGNER_06,generated_r2
+r2_anuong_009,train,Ăn uống,standard,85,C0734,SIGNER_04,generated_r2
+r2_anuong_011,train,Ăn uống,standard,90,C0735,SIGNER_01,generated_r2
+r2_anuong_012,train,Ăn uống,standard,91,C0736,SIGNER_01,generated_r2
+r3_anuong_001,dev,Ăn uống,hard,102,C0737,SIGNER_07,generated_r3_llm
+r3_anuong_002,sd_test,Ăn uống,hard,113,C0738,SIGNER_06,generated_r3_llm
+r3_anuong_003,train,Ăn uống,standard,98,C0739,SIGNER_05,generated_r3_llm
+r3_anuong_004,train,Ăn uống,hard,123,C0740,SIGNER_04,generated_r3_llm
+r3_anuong_005,train,Ăn uống,hard,116,C0741,SIGNER_03,generated_r3_llm
+r3_anuong_006,train,Ăn uống,standard,95,C0742,SIGNER_08,generated_r3_llm
+r3_anuong_007,dev,Ăn uống,hard,107,C0743,SIGNER_02,generated_r3_llm
+r3_anuong_008,train,Ăn uống,hard,118,C0744,SIGNER_04,generated_r3_llm
+r3_anuong_009,train,Ăn uống,hard,100,C0745,SIGNER_02,generated_r3_llm
+r3_anuong_010,sd_test,Ăn uống,hard,103,C0746,SIGNER_01,generated_r3_llm
+r3_anuong_011,train,Ăn uống,hard,108,C0747,SIGNER_06,generated_r3_llm
+r3_anuong_012,dev,Ăn uống,hard,139,C0748,SIGNER_03,generated_r3_llm
+r4_anuong_001,train,Ăn uống,standard,98,C0761,SIGNER_07,generated_r4_llm
+r4_anuong_002,train,Ăn uống,hard,122,C0762,SIGNER_06,generated_r4_llm
+r4_anuong_003,train,Ăn uống,hard,113,C0763,SIGNER_05,generated_r4_llm
+r4_anuong_004,train,Ăn uống,hard,114,C0764,SIGNER_08,generated_r4_llm
+r4_anuong_005,train,Ăn uống,hard,129,C0765,SIGNER_06,generated_r4_llm
+r4_anuong_006,train,Ăn uống,hard,115,C0766,SIGNER_08,generated_r4_llm
+r4b_anuong_001,train,Ăn uống,hard,122,C0767,SIGNER_05,generated_r4b_llm
+d01747,train,Động vật,standard,87,C0768,SIGNER_05,generated
+d01749,train,Động vật,standard,82,C0769,SIGNER_01,generated
+d01750,train,Động vật,standard,80,C0770,SIGNER_03,generated
+d01751,train,Động vật,standard,78,C0771,SIGNER_07,generated
+d01834,train,Động vật,standard,77,C0772,SIGNER_08,generated
+d01836,train,Động vật,standard,79,C0773,SIGNER_02,generated
+d01840,train,Động vật,standard,73,C0774,SIGNER_05,generated
+d01846,train,Động vật,standard,83,C0775,SIGNER_08,generated
+d01850,train,Động vật,standard,70,C0776,SIGNER_07,generated
+d01857,dev,Động vật,standard,70,C0777,SIGNER_05,generated
+d01858,sd_test,Động vật,standard,74,C0778,SIGNER_02,generated
+d01861,train,Động vật,standard,72,C0779,SIGNER_06,generated
+r2_dongvat_002,train,Động vật,standard,73,C0780,SIGNER_04,generated_r2
+r2_dongvat_003,train,Động vật,standard,71,C0781,SIGNER_05,generated_r2
+r2_dongvat_005,train,Động vật,hard,121,C0782,SIGNER_06,generated_r2
+r2_dongvat_006,train,Động vật,hard,123,C0783,SIGNER_01,generated_r2
+r2_dongvat_007,train,Động vật,standard,71,C0784,SIGNER_04,generated_r2
+r2_dongvat_009,train,Động vật,standard,83,C0785,SIGNER_06,generated_r2
+r2_dongvat_010,train,Động vật,standard,85,C0786,SIGNER_06,generated_r2
+r2_dongvat_011,train,Động vật,standard,92,C0787,SIGNER_02,generated_r2
+r2_dongvat_012,train,Động vật,standard,86,C0788,SIGNER_08,generated_r2
+r3_dongvat_001,train,Động vật,hard,108,C0789,SIGNER_04,generated_r3_llm
+r3_dongvat_002,train,Động vật,hard,138,C0790,SIGNER_06,generated_r3_llm
+r3_dongvat_003,train,Động vật,hard,108,C0791,SIGNER_05,generated_r3_llm
+r3_dongvat_004,train,Động vật,standard,92,C0792,SIGNER_02,generated_r3_llm
+r3_dongvat_005,train,Động vật,hard,122,C0793,SIGNER_04,generated_r3_llm
+r3_dongvat_006,train,Động vật,hard,148,C0794,SIGNER_08,generated_r3_llm
+r3_dongvat_007,sd_test,Động vật,hard,118,C0795,SIGNER_07,generated_r3_llm
+r3_dongvat_008,train,Động vật,hard,119,C0796,SIGNER_01,generated_r3_llm
+r3_dongvat_009,train,Động vật,hard,123,C0797,SIGNER_04,generated_r3_llm
+r3_dongvat_010,train,Động vật,hard,102,C0798,SIGNER_07,generated_r3_llm
+r3_dongvat_011,train,Động vật,hard,119,C0799,SIGNER_01,generated_r3_llm
+r3_dongvat_012,train,Động vật,hard,120,C0800,SIGNER_02,generated_r3_llm
+r4_dongvat_001,dev,Động vật,hard,138,C0801,SIGNER_01,generated_r4_llm
+r4_dongvat_002,dev,Động vật,hard,114,C0802,SIGNER_07,generated_r4_llm
+r4_dongvat_003,train,Động vật,hard,130,C0803,SIGNER_07,generated_r4_llm
+r4_dongvat_004,train,Động vật,hard,130,C0804,SIGNER_07,generated_r4_llm
+r4_dongvat_005,train,Động vật,hard,122,C0805,SIGNER_08,generated_r4_llm
+r4_dongvat_006,train,Động vật,hard,122,C0806,SIGNER_05,generated_r4_llm
+r4b_dongvat_001,sd_test,Động vật,hard,129,C0807,SIGNER_01,generated_r4b_llm
+d00002,sd_test,Đời sống hàng ngày,standard,71,C0808,SIGNER_01,generated
+gf_doisong_001,train,Đời sống hàng ngày,hard,144,C0829,SIGNER_08,generated_gf_llm
+gf_doisong_002,train,Đời sống hàng ngày,standard,99,C0830,SIGNER_08,generated_gf_llm
+gf_doisong_003,train,Đời sống hàng ngày,standard,99,C0831,SIGNER_08,generated_gf_llm
+gf_doisong_004,train,Đời sống hàng ngày,standard,98,C0832,SIGNER_03,generated_gf_llm
+gf_doisong_005,train,Đời sống hàng ngày,hard,131,C0833,SIGNER_02,generated_gf_llm
+gf_doisong_006,train,Đời sống hàng ngày,hard,118,C0834,SIGNER_01,generated_gf_llm
+gf_doisong_007,dev,Đời sống hàng ngày,hard,138,C0835,SIGNER_04,generated_gf_llm
+gf_doisong_008,train,Đời sống hàng ngày,hard,110,C0836,SIGNER_05,generated_gf_llm
+gf_doisong_009,train,Đời sống hàng ngày,standard,98,C0837,SIGNER_03,generated_gf_llm
+gf_doisong_010,sd_test,Đời sống hàng ngày,hard,118,C0838,SIGNER_04,generated_gf_llm
+gf_doisong_011,train,Đời sống hàng ngày,hard,105,C0839,SIGNER_03,generated_gf_llm
+gf_doisong_012,dev,Đời sống hàng ngày,hard,115,C0840,SIGNER_07,generated_gf_llm
+r2_doisong_002,train,Đời sống hàng ngày,standard,73,C0809,SIGNER_04,generated_r2
+r2_doisong_003,train,Đời sống hàng ngày,standard,77,C0810,SIGNER_05,generated_r2
+r2_doisong_004,train,Đời sống hàng ngày,standard,78,C0811,SIGNER_04,generated_r2
+r2_doisong_005,train,Đời sống hàng ngày,hard,106,C0812,SIGNER_02,generated_r2
+r2_doisong_006,train,Đời sống hàng ngày,hard,107,C0813,SIGNER_07,generated_r2
+r2_doisong_009,sd_test,Đời sống hàng ngày,standard,91,C0814,SIGNER_02,generated_r2
+r2_doisong_011,train,Đời sống hàng ngày,standard,87,C0815,SIGNER_05,generated_r2
+r2_doisong_012,dev,Đời sống hàng ngày,standard,92,C0816,SIGNER_03,generated_r2
+r3_doisong_001,train,Đời sống hàng ngày,hard,125,C0817,SIGNER_04,generated_r3_llm
+r3_doisong_002,train,Đời sống hàng ngày,hard,113,C0818,SIGNER_02,generated_r3_llm
+r3_doisong_003,train,Đời sống hàng ngày,hard,123,C0819,SIGNER_01,generated_r3_llm
+r3_doisong_004,train,Đời sống hàng ngày,hard,103,C0820,SIGNER_01,generated_r3_llm
+r3_doisong_005,train,Đời sống hàng ngày,hard,133,C0821,SIGNER_05,generated_r3_llm
+r3_doisong_006,train,Đời sống hàng ngày,hard,123,C0822,SIGNER_04,generated_r3_llm
+r3_doisong_007,train,Đời sống hàng ngày,hard,129,C0823,SIGNER_07,generated_r3_llm
+r3_doisong_008,train,Đời sống hàng ngày,hard,128,C0824,SIGNER_05,generated_r3_llm
+r3_doisong_009,train,Đời sống hàng ngày,hard,102,C0825,SIGNER_05,generated_r3_llm
+r3_doisong_010,train,Đời sống hàng ngày,hard,133,C0826,SIGNER_05,generated_r3_llm
+r3_doisong_011,train,Đời sống hàng ngày,hard,107,C0827,SIGNER_08,generated_r3_llm
+r3_doisong_012,train,Đời sống hàng ngày,hard,128,C0828,SIGNER_01,generated_r3_llm
+r4_doisong_001,train,Đời sống hàng ngày,hard,121,C0841,SIGNER_06,generated_r4_llm
+r4_doisong_002,train,Đời sống hàng ngày,hard,114,C0842,SIGNER_02,generated_r4_llm
+r4_doisong_003,train,Đời sống hàng ngày,hard,113,C0843,SIGNER_04,generated_r4_llm
+r4_doisong_004,train,Đời sống hàng ngày,hard,117,C0844,SIGNER_06,generated_r4_llm
+r4_doisong_005,train,Đời sống hàng ngày,hard,118,C0845,SIGNER_03,generated_r4_llm
+r4_doisong_006,train,Đời sống hàng ngày,hard,126,C0846,SIGNER_08,generated_r4_llm
+FLEURS_11911,si_test,Động vật,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11912,si_test,Giải trí,eval_sentence,16,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11913,si_test,Động vật,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11914,si_test,Xã hội,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11915,si_test,Du lịch,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11916,si_test,Học đường,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11917,si_test,Phương tiện di chuyển,eval_sentence,52,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11918,si_test,Thiên nhiên,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11919,si_test,Xã hội,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11920,si_test,Xã hội,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11921,si_test,Học đường,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11922,si_test,Giao tiếp Xã hội,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11923,si_test,Thiên nhiên,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11924,si_test,Học đường,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11925,si_test,Sức khỏe,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11926,si_test,Giải trí,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11927,si_test,Xã hội,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11928,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11929,si_test,Xã hội,eval_sentence,38,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11930,si_test,Động vật,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11931,si_test,Xã hội,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11932,si_test,Sức khỏe,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11933,si_test,Thời tiết và Mùa,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11934,si_test,Du lịch,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11935,si_test,Thiên nhiên,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11936,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11937,si_test,Giải trí,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11938,si_test,Xã hội,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11939,si_test,Thời tiết và Mùa,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11940,si_test,Phương tiện di chuyển,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11941,si_test,Phương tiện di chuyển,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11942,si_test,Động vật,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11943,si_test,Thiên nhiên,eval_sentence,13,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11944,si_test,Xã hội,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11945,si_test,Thiên nhiên,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11946,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11947,si_test,Du lịch,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11948,si_test,Động vật,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11949,si_test,Sở thích,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11950,si_test,Động vật,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11951,si_test,Giải trí,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11952,si_test,Thiên nhiên,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11953,si_test,Động vật,eval_sentence,13,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11954,si_test,Giải trí,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11955,si_test,Xã hội,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11956,si_test,Xã hội,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11957,si_test,Xã hội,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11958,si_test,Động vật,eval_sentence,60,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11959,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11960,si_test,Học đường,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11961,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11962,si_test,Động vật,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11963,si_test,Xã hội,eval_sentence,38,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11964,si_test,Động vật,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11965,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11966,si_test,Giao tiếp Xã hội,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11967,si_test,Du lịch,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11968,si_test,Giải trí,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11969,si_test,Xã hội,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11970,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11971,si_test,Động vật,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11972,si_test,Giải trí,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11973,si_test,Sức khỏe,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11974,si_test,Xã hội,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11975,si_test,Phương tiện di chuyển,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11976,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11977,si_test,Phương tiện di chuyển,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11978,si_test,Du lịch,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11979,si_test,Thiên nhiên,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11980,si_test,Giải trí,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11981,si_test,Du lịch,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11982,si_test,Giải trí,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11983,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11984,si_test,Du lịch,eval_sentence,42,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11985,si_test,Giải trí,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11986,si_test,Sức khỏe,eval_sentence,12,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11987,si_test,Sức khỏe,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11988,si_test,Xã hội,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11989,si_test,Ăn uống,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11990,si_test,Phương tiện di chuyển,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11991,si_test,Xã hội,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11992,si_test,Xã hội,eval_sentence,60,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11993,si_test,Thiên nhiên,eval_sentence,63,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11994,si_test,Du lịch,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11995,si_test,Xã hội,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11996,si_test,Xã hội,eval_sentence,47,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11997,si_test,Thiên nhiên,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11998,si_test,Phương tiện di chuyển,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_11999,si_test,Du lịch,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12000,si_test,Xã hội,eval_sentence,41,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12001,si_test,Xã hội,eval_sentence,54,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12002,si_test,Ăn uống,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12003,si_test,Sức khỏe,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12004,si_test,Thiên nhiên,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12005,si_test,Xã hội,eval_sentence,50,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12006,si_test,Xã hội,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12007,si_test,Du lịch,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12008,si_test,Du lịch,eval_sentence,14,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12009,si_test,Xã hội,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12010,si_test,Ăn uống,eval_sentence,16,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12011,si_test,Xã hội,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12012,si_test,Xã hội,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12013,si_test,Xã hội,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12014,si_test,Giao tiếp Xã hội,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12015,si_test,Giải trí,eval_sentence,65,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12016,si_test,Sức khỏe,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12017,si_test,Xã hội,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12018,si_test,Du lịch,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12019,si_test,Ăn uống,eval_sentence,48,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12020,si_test,Công việc,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12021,si_test,Du lịch,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12022,si_test,Công việc,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12023,si_test,Thời tiết và Mùa,eval_sentence,63,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12024,si_test,Giải trí,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12025,si_test,Giải trí,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12026,si_test,Thiên nhiên,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12027,si_test,Thiên nhiên,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12028,si_test,Gia đình,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12029,si_test,Sức khỏe,eval_sentence,14,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12030,si_test,Mua sắm,eval_sentence,16,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12031,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12032,si_test,Xã hội,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12033,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12034,si_test,Thiên nhiên,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12035,si_test,Xã hội,eval_sentence,63,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12036,si_test,Sức khỏe,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12037,si_test,Mua sắm,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12038,si_test,Thiên nhiên,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12039,si_test,Phương tiện di chuyển,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12040,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12041,si_test,Đời sống hàng ngày,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12042,si_test,Xã hội,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12043,si_test,Xã hội,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12044,si_test,Nhiễu,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12045,si_test,Công việc,eval_sentence,48,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12046,si_test,Giao tiếp Xã hội,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12047,si_test,Xã hội,eval_sentence,13,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12048,si_test,Du lịch,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12049,si_test,Xã hội,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12050,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12051,si_test,Thiên nhiên,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12052,si_test,Du lịch,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12053,si_test,Thiên nhiên,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12054,si_test,Học đường,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12055,si_test,Thiên nhiên,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12056,si_test,Thiên nhiên,eval_sentence,53,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12057,si_test,Xã hội,eval_sentence,54,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12058,si_test,Du lịch,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12059,si_test,Thiên nhiên,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12060,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12061,si_test,Thời tiết và Mùa,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12062,si_test,Sức khỏe,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12063,si_test,Sức khỏe,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12064,si_test,Xã hội,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12065,si_test,Xã hội,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12066,si_test,Xã hội,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12067,si_test,Thiên nhiên,eval_sentence,44,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12068,si_test,Thiên nhiên,eval_sentence,41,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12069,si_test,Xã hội,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12070,si_test,Phương tiện di chuyển,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12071,si_test,Sức khỏe,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12072,si_test,Giải trí,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12073,si_test,Thiên nhiên,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12074,si_test,Xã hội,eval_sentence,46,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12075,si_test,Phương tiện di chuyển,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12076,si_test,Ăn uống,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12077,si_test,Du lịch,eval_sentence,16,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12078,si_test,Giải trí,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12079,si_test,Thiên nhiên,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12080,si_test,Đời sống hàng ngày,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12081,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12082,si_test,Xã hội,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12083,si_test,Giải trí,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12084,si_test,Xã hội,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12085,si_test,Thiên nhiên,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12086,si_test,Giải trí,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12087,si_test,Xã hội,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12088,si_test,Xã hội,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12089,si_test,Giải trí,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12090,si_test,Động vật,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12091,si_test,Thiên nhiên,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12092,si_test,Thiên nhiên,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12093,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12094,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12095,si_test,Xã hội,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12096,si_test,Nhiễu,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12097,si_test,Giải trí,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12098,si_test,Du lịch,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12099,si_test,Động vật,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12100,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12101,si_test,Động vật,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12102,si_test,Sức khỏe,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12103,si_test,Học đường,eval_sentence,71,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12104,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12105,si_test,Sức khỏe,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12106,si_test,Động vật,eval_sentence,61,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12107,si_test,Thiên nhiên,eval_sentence,46,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12108,si_test,Giải trí,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12109,si_test,Du lịch,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12110,si_test,Du lịch,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12111,si_test,Thiên nhiên,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12112,si_test,Phương tiện di chuyển,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12113,si_test,Xã hội,eval_sentence,53,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12114,si_test,Công việc,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12115,si_test,Xã hội,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12116,si_test,Thiên nhiên,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12117,si_test,Giao tiếp Xã hội,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12118,si_test,Động vật,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12119,si_test,Xã hội,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12120,si_test,Xã hội,eval_sentence,42,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12121,si_test,Thời tiết và Mùa,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12122,si_test,Xã hội,eval_sentence,44,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12123,si_test,Thời tiết và Mùa,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12124,si_test,Thiên nhiên,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12125,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12126,si_test,Xã hội,eval_sentence,60,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12127,si_test,Du lịch,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12128,si_test,Xã hội,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12129,si_test,Giải trí,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12130,si_test,Thời tiết và Mùa,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12131,si_test,Phương tiện di chuyển,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12132,si_test,Giải trí,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12133,si_test,Mua sắm,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12134,si_test,Xã hội,eval_sentence,70,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12135,si_test,Sức khỏe,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12136,si_test,Xã hội,eval_sentence,14,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12137,si_test,Ăn uống,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12138,si_test,Giao tiếp Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12139,si_test,Học đường,eval_sentence,47,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12140,si_test,Phương tiện di chuyển,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12141,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12142,si_test,Xã hội,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12143,si_test,Thiên nhiên,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12144,si_test,Xã hội,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12145,si_test,Xã hội,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12146,si_test,Sức khỏe,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12147,si_test,Động vật,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12148,si_test,Thiên nhiên,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12149,si_test,Xã hội,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12150,si_test,Công việc,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12151,si_test,Xã hội,eval_sentence,57,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12152,si_test,Đời sống hàng ngày,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12153,si_test,Xã hội,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12154,si_test,Thiên nhiên,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12155,si_test,Du lịch,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12156,si_test,Xã hội,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12157,si_test,Sức khỏe,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12158,si_test,Xã hội,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12159,si_test,Xã hội,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12160,si_test,Xã hội,eval_sentence,13,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12161,si_test,Xã hội,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12162,si_test,Xã hội,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12163,si_test,Thiên nhiên,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12164,si_test,Du lịch,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12165,si_test,Công việc,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12166,si_test,Xã hội,eval_sentence,67,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12167,si_test,Du lịch,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12168,si_test,Thiên nhiên,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12169,si_test,Động vật,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12170,si_test,Xã hội,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12171,si_test,Xã hội,eval_sentence,14,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12172,si_test,Thiên nhiên,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12173,si_test,Du lịch,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12174,si_test,Giải trí,eval_sentence,12,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12175,si_test,Xã hội,eval_sentence,16,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12176,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12177,si_test,Xã hội,eval_sentence,73,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12178,si_test,Công việc,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12179,si_test,Xã hội,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12180,si_test,Xã hội,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12181,si_test,Du lịch,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12182,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12183,si_test,Ăn uống,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12184,si_test,Học đường,eval_sentence,41,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12185,si_test,Thời tiết và Mùa,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12186,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12187,si_test,Xã hội,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12188,si_test,Động vật,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12189,si_test,Xã hội,eval_sentence,17,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12190,si_test,Xã hội,eval_sentence,47,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12191,si_test,Du lịch,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12192,si_test,Xã hội,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12193,si_test,Xã hội,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12194,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12195,si_test,Xã hội,eval_sentence,42,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12196,si_test,Du lịch,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12197,si_test,Học đường,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12198,si_test,Du lịch,eval_sentence,42,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12199,si_test,Xã hội,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12200,si_test,Gia đình,eval_sentence,13,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12201,si_test,Động vật,eval_sentence,21,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12202,si_test,Xã hội,eval_sentence,47,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12203,si_test,Giải trí,eval_sentence,36,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12204,si_test,Thời tiết và Mùa,eval_sentence,27,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12205,si_test,Du lịch,eval_sentence,45,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12206,si_test,Xã hội,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12207,si_test,Xã hội,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12208,si_test,Phương tiện di chuyển,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12209,si_test,Du lịch,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12210,si_test,Sức khỏe,eval_sentence,41,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12211,si_test,Xã hội,eval_sentence,44,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12212,si_test,Xã hội,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12213,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12214,si_test,Xã hội,eval_sentence,42,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12215,si_test,Xã hội,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12216,si_test,Phương tiện di chuyển,eval_sentence,31,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12217,si_test,Sở thích,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12218,si_test,Phương tiện di chuyển,eval_sentence,25,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12219,si_test,Học đường,eval_sentence,55,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12220,si_test,Giải trí,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12221,si_test,Thiên nhiên,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12222,si_test,Sức khỏe,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12223,si_test,Du lịch,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12224,si_test,Xã hội,eval_sentence,52,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12225,si_test,Du lịch,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12226,si_test,Học đường,eval_sentence,46,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12227,si_test,Du lịch,eval_sentence,12,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12228,si_test,Xã hội,eval_sentence,39,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12229,si_test,Động vật,eval_sentence,38,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12230,si_test,Giải trí,eval_sentence,20,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12231,si_test,Xã hội,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12232,si_test,Sức khỏe,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12233,si_test,Xã hội,eval_sentence,19,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12234,si_test,Xã hội,eval_sentence,32,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12235,si_test,Đời sống hàng ngày,eval_sentence,22,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12236,si_test,Thời tiết và Mùa,eval_sentence,24,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12237,si_test,Động vật,eval_sentence,18,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12238,si_test,Thiên nhiên,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12239,si_test,Du lịch,eval_sentence,28,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12240,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12241,si_test,Thiên nhiên,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12242,si_test,Xã hội,eval_sentence,46,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12243,si_test,Mua sắm,eval_sentence,43,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12244,si_test,Xã hội,eval_sentence,23,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12245,si_test,Đời sống hàng ngày,eval_sentence,54,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12246,si_test,Đời sống hàng ngày,eval_sentence,14,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12247,si_test,Xã hội,eval_sentence,29,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12248,si_test,Thiên nhiên,eval_sentence,30,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12249,si_test,Giải trí,eval_sentence,40,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12250,si_test,Xã hội,eval_sentence,47,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12251,si_test,Xã hội,eval_sentence,26,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12252,si_test,Giải trí,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12253,si_test,Giao tiếp Xã hội,eval_sentence,37,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12254,si_test,Thiên nhiên,eval_sentence,33,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12255,si_test,Thiên nhiên,eval_sentence,35,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12256,si_test,Động vật,eval_sentence,34,,SIGNER_09|SIGNER_10,transcriptions.csv
+FLEURS_12257,si_test,Học đường,eval_sentence,15,,SIGNER_09|SIGNER_10,transcriptions.csv

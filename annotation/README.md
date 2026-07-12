@@ -22,8 +22,10 @@ python3 annotation_server.py setpassword     # sets username + password (stored 
 python3 annotation_server.py --host 0.0.0.0 --port 8000
 ```
 
-If `ANNOTATION_DATA_DIR` is unset, the app auto-detects `<repo>/final_corpus/recording`; if that
-doesn't exist it falls back to the bundled `sample_data/recording/` so a fresh clone runs immediately.
+If `ANNOTATION_DATA_DIR` is unset, the app auto-detects `<repo>/final_corpus/recording`; otherwise it uses the
+**bundled full recording package** at `data/recording/` (1,540 clips), and finally the tiny `sample_data/recording/`
+demo — so a fresh clone runs on the real dataset immediately. Uploaded videos are written next to those CSVs
+under `videos/` and are **not** committed.
 
 ## Login (single shared account)
 

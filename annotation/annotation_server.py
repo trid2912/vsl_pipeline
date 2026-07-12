@@ -36,7 +36,11 @@ def find_data_dir():
     cand = root / "final_corpus" / "recording"
     if cand.is_dir():
         return cand
-    return Path(__file__).resolve().parent / "sample_data" / "recording"  # standalone-clone demo fallback
+    here = Path(__file__).resolve().parent
+    bundled = here / "data" / "recording"          # full recording package shipped in the repo
+    if (bundled / "final_recording_script.csv").exists():
+        return bundled
+    return here / "sample_data" / "recording"       # last-resort tiny demo
 
 REC_DIR = find_data_dir()
 SCRIPT_CSV = REC_DIR / "final_recording_script.csv"
