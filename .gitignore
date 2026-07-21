@@ -20,3 +20,9 @@ annotation/sample_data/recording/videos/*
 # os / editor
 .DS_Store
 *.swp
+
+# QC backups & intermediates (không đưa lên repo)
+annotation/data/recording/*.csv.bak*
+annotation/data/recording/_cfix_*.json
+annotation/data/recording/historical_name_fixes.csv
+annotation/data/recording/name_fixes_review.csv

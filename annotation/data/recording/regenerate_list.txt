@@ -1,0 +1,4 @@
+# Segment nhóm E (phi lý / cảm xúc lệch) — cần sinh lại bằng gen_segment_llm.py
+gf2_hocduong_003	Học đường	trộn soạn thảo văn bản + may vá + siêu âm thai
+r3_lichsu_002	Lịch sử	phỏng vấn cựu binh lẫn kim may vá + trận Bạch Đằng cổ đại (anachronism)
+r3_congviec_010	Công việc	word-salad bắn hụt/bắn lén/bắc băng dương
